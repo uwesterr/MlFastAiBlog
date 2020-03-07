@@ -4,10 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Interested in machine learning since 2014, using it to improve laser communication in space and spreading the idea by teaching at:
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+- University of applied science Esslingen
+- VHS Esslingen
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
