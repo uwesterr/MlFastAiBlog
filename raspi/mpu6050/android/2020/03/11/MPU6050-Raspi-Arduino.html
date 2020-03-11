@@ -39,3 +39,20 @@ wpa_passphrase=AardvarkBadgerHedgehog # change this
 <h2 id="measuring-rotation-and-acceleration-with-the-raspberry-pi">Measuring Rotation and acceleration with the Raspberry Pi</h2>
 
 <p>Follow instructions at <strong>MPU6050 (Accelerometer+Gyroscope) Interfacing with Raspberry Pi</strong> https://www.electronicwings.com/raspberry-pi/mpu6050-accelerometergyroscope-interfacing-with-raspberry-pi</p>
+
+<h2 id="calculate-pitch-and-roll">Calculate pitch and roll</h2>
+
+<p>from <code class="highlighter-rouge">MPU6050_9Axis_MotionApps41.h</code>
+<code class="highlighter-rouge">uint8_t MPU6050::dmpGetYawPitchRoll(float *data, Quaternion *q, VectorFloat *gravity) {
+    // yaw: (about Z axis)
+    data[0] = atan2(2*q -&gt; x*q -&gt; y - 2*q -&gt; w*q -&gt; z, 2*q -&gt; w*q -&gt; w + 2*q -&gt; x*q -&gt; x - 1);
+    // pitch: (nose up/down, about Y axis)
+    data[1] = atan(gravity -&gt; x / sqrt(gravity -&gt; y*gravity -&gt; y + gravity -&gt; z*gravity -&gt; z));
+    // roll: (tilt left/right, about X axis)
+    data[2] = atan(gravity -&gt; y / sqrt(gravity -&gt; x*gravity -&gt; x + gravity -&gt; z*gravity -&gt; z));
+    return 0;
+</code></p>
+
+<p><a href="http://www.raspberrypirobotics.com/measuring-rotation-and-acceleration-with-the-raspberry-pi/">Another python example is given at here</a></p>
+
+<p>http://www.raspberrypirobotics.com/measuring-rotation-and-acceleration-with-the-raspberry-pi/</p>
