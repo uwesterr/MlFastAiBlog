@@ -63,8 +63,27 @@ from `MPU6050_9Axis_MotionApps41.h`
     data[2] = atan(gravity -> y / sqrt(gravity -> x*gravity -> x + gravity -> z*gravity -> z));
     return 0;
 ```
+The following output 
+````
+Gyroscope
+--------
+gyroscope_xout:   -260  scaled:  -2
+gyroscope_yout:   -154  scaled:  -2
+gyroscope_zout:     78  scaled:  0
 
-[Another python example is given at here](http://www.raspberrypirobotics.com/measuring-rotation-and-acceleration-with-the-raspberry-pi/)  
+Accelerometer
+---------------------
+acceleration_xout:   -1048  scaled:  -0.06396484375
+acceleration_yout:    -676  scaled:  -0.041259765625
+acceleration_zout:   16644  scaled:  1.01586914062
+X Rotation:  -2.32121150537
+Y Rotation:  3.59994842011
+```
+
+
+
+is created by   
+[Measuring Rotation and acceleration with the Raspberry Pi](http://www.raspberrypirobotics.com/measuring-rotation-and-acceleration-with-the-raspberry-pi/)  
 
 
 http://www.raspberrypirobotics.com/measuring-rotation-and-acceleration-with-the-raspberry-pi/ 
