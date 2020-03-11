@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://uwesterr.github.io/MlFastAiBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://uwesterr.github.io/MlFastAiBlog/" rel="alternate" type="text/html" /><updated>2020-03-11T13:22:09-05:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/feed.xml</id><title type="html">Machine learning with Uwe</title><subtitle>Blogs to make ML understandable and easy to get started</subtitle><entry><title type="html">Develop Android app to park a camper level</title><link href="https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino.html" rel="alternate" type="text/html" title="Develop Android app to park a camper level" /><published>2020-03-11T00:00:00-05:00</published><updated>2020-03-11T00:00:00-05:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino</id><content type="html" xml:base="https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino.html">&lt;h1 id=&quot;develop-android-app-to-park-a-camper-level&quot;&gt;Develop Android app to park a camper level&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://uwesterr.github.io/MlFastAiBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://uwesterr.github.io/MlFastAiBlog/" rel="alternate" type="text/html" /><updated>2020-03-11T13:23:51-05:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/feed.xml</id><title type="html">Machine learning with Uwe</title><subtitle>Blogs to make ML understandable and easy to get started</subtitle><entry><title type="html">Develop Android app to park a camper level</title><link href="https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino.html" rel="alternate" type="text/html" title="Develop Android app to park a camper level" /><published>2020-03-11T00:00:00-05:00</published><updated>2020-03-11T00:00:00-05:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino</id><content type="html" xml:base="https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino.html">&lt;h1 id=&quot;develop-android-app-to-park-a-camper-level&quot;&gt;Develop Android app to park a camper level&lt;/h1&gt;
 
 &lt;hr /&gt;
 
@@ -43,17 +43,32 @@ wpa_passphrase=AardvarkBadgerHedgehog # change this
 &lt;h2 id=&quot;calculate-pitch-and-roll&quot;&gt;Calculate pitch and roll&lt;/h2&gt;
 
 &lt;p&gt;from &lt;code class=&quot;highlighter-rouge&quot;&gt;MPU6050_9Axis_MotionApps41.h&lt;/code&gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;uint8_t MPU6050::dmpGetYawPitchRoll(float *data, Quaternion *q, VectorFloat *gravity) {
+```uint8_t MPU6050::dmpGetYawPitchRoll(float &lt;em&gt;data, Quaternion *q, VectorFloat *gravity) {
     // yaw: (about Z axis)
-    data[0] = atan2(2*q -&amp;gt; x*q -&amp;gt; y - 2*q -&amp;gt; w*q -&amp;gt; z, 2*q -&amp;gt; w*q -&amp;gt; w + 2*q -&amp;gt; x*q -&amp;gt; x - 1);
+    data[0] = atan2(2&lt;/em&gt;q -&amp;gt; x&lt;em&gt;q -&amp;gt; y - 2&lt;/em&gt;q -&amp;gt; w&lt;em&gt;q -&amp;gt; z, 2&lt;/em&gt;q -&amp;gt; w&lt;em&gt;q -&amp;gt; w + 2&lt;/em&gt;q -&amp;gt; x&lt;em&gt;q -&amp;gt; x - 1);
     // pitch: (nose up/down, about Y axis)
-    data[1] = atan(gravity -&amp;gt; x / sqrt(gravity -&amp;gt; y*gravity -&amp;gt; y + gravity -&amp;gt; z*gravity -&amp;gt; z));
+    data[1] = atan(gravity -&amp;gt; x / sqrt(gravity -&amp;gt; y&lt;/em&gt;gravity -&amp;gt; y + gravity -&amp;gt; z&lt;em&gt;gravity -&amp;gt; z));
     // roll: (tilt left/right, about X axis)
-    data[2] = atan(gravity -&amp;gt; y / sqrt(gravity -&amp;gt; x*gravity -&amp;gt; x + gravity -&amp;gt; z*gravity -&amp;gt; z));
-    return 0;
-&lt;/code&gt;&lt;/p&gt;
+    data[2] = atan(gravity -&amp;gt; y / sqrt(gravity -&amp;gt; x&lt;/em&gt;gravity -&amp;gt; x + gravity -&amp;gt; z*gravity -&amp;gt; z));
+    return 0;&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The following output 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Gyroscope
+——–
+gyroscope_xout:   -260  scaled:  -2
+gyroscope_yout:   -154  scaled:  -2
+gyroscope_zout:     78  scaled:  0&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.raspberrypirobotics.com/measuring-rotation-and-acceleration-with-the-raspberry-pi/&quot;&gt;Another python example is given at here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;accelerometer&quot;&gt;Accelerometer&lt;/h2&gt;
+&lt;p&gt;acceleration_xout:   -1048  scaled:  -0.06396484375
+acceleration_yout:    -676  scaled:  -0.041259765625
+acceleration_zout:   16644  scaled:  1.01586914062
+X Rotation:  -2.32121150537
+Y Rotation:  3.59994842011
+```&lt;/p&gt;
+
+&lt;p&gt;is created by &lt;br /&gt;
+&lt;a href=&quot;http://www.raspberrypirobotics.com/measuring-rotation-and-acceleration-with-the-raspberry-pi/&quot;&gt;Measuring Rotation and acceleration with the Raspberry Pi&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;http://www.raspberrypirobotics.com/measuring-rotation-and-acceleration-with-the-raspberry-pi/&lt;/p&gt;</content><author><name></name></author><summary type="html">Develop Android app to park a camper level</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://uwesterr.github.io/MlFastAiBlog/images/vsCodeSreenShot.png" /><media:content medium="image" url="https://uwesterr.github.io/MlFastAiBlog/images/vsCodeSreenShot.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Colabguide</title><link href="https://uwesterr.github.io/MlFastAiBlog/fastpages/github/jupyter%20notebook/vs%20code/colab/2020/03/01/ColabGuide.html" rel="alternate" type="text/html" title="Colabguide" /><published>2020-03-01T00:00:00-06:00</published><updated>2020-03-01T00:00:00-06:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/fastpages/github/jupyter%20notebook/vs%20code/colab/2020/03/01/ColabGuide</id><content type="html" xml:base="https://uwesterr.github.io/MlFastAiBlog/fastpages/github/jupyter%20notebook/vs%20code/colab/2020/03/01/ColabGuide.html">&lt;h1 id=&quot;working-with-fastpages-github-and-colab&quot;&gt;Working with fastpages, GitHub and Colab&lt;/h1&gt;
 
