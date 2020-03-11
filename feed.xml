@@ -1,11 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://uwesterr.github.io/MlFastAiBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://uwesterr.github.io/MlFastAiBlog/" rel="alternate" type="text/html" /><updated>2020-03-11T05:47:55-05:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/feed.xml</id><title type="html">Machine learning with Uwe</title><subtitle>Blogs to make ML understandable and easy to get started</subtitle><entry><title type="html">Develop Android app to park a camper level</title><link href="https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino.html" rel="alternate" type="text/html" title="Develop Android app to park a camper level" /><published>2020-03-11T00:00:00-05:00</published><updated>2020-03-11T00:00:00-05:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino</id><content type="html" xml:base="https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino.html">&lt;h1 id=&quot;develop-android-app-to-park-a-camper-level&quot;&gt;Develop Android app to park a camper level&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://uwesterr.github.io/MlFastAiBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://uwesterr.github.io/MlFastAiBlog/" rel="alternate" type="text/html" /><updated>2020-03-11T10:13:51-05:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/feed.xml</id><title type="html">Machine learning with Uwe</title><subtitle>Blogs to make ML understandable and easy to get started</subtitle><entry><title type="html">Develop Android app to park a camper level</title><link href="https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino.html" rel="alternate" type="text/html" title="Develop Android app to park a camper level" /><published>2020-03-11T00:00:00-05:00</published><updated>2020-03-11T00:00:00-05:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino</id><content type="html" xml:base="https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino.html">&lt;h1 id=&quot;develop-android-app-to-park-a-camper-level&quot;&gt;Develop Android app to park a camper level&lt;/h1&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;In the blog &lt;a href=&quot;https://tutorials-raspberrypi.de/raspberry-pi-mpu-6050-rotationssensor-webgl-nodejs-server/&quot;&gt;Rotationssensor MPU-6050 mit WebGL am Raspberry Pi visualisieren&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Der Raspberry Pi ist zu vielem in der Lage, so können einfach Rotations- und Beschleunigugnswerte mittels eines Sensors, wie dem MPU-6050, ausgelesen werden. Das Ergebnis sind jedoch einfache Zahlen, worunter man sich im Normalfall nicht all zu viel vorstellen wird. Jedoch ist es sehr einfach diese Zahlen zu visualisieren. Dies geht in modernen Browsern ganz einfach mittels WebGL, womit man 2D und 3D Objekte im Browser rendern kann.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">Develop Android app to park a camper level</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://uwesterr.github.io/MlFastAiBlog/images/vsCodeSreenShot.png" /><media:content medium="image" url="https://uwesterr.github.io/MlFastAiBlog/images/vsCodeSreenShot.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Colabguide</title><link href="https://uwesterr.github.io/MlFastAiBlog/fastpages/github/jupyter%20notebook/vs%20code/colab/2020/03/01/ColabGuide.html" rel="alternate" type="text/html" title="Colabguide" /><published>2020-03-01T00:00:00-06:00</published><updated>2020-03-01T00:00:00-06:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/fastpages/github/jupyter%20notebook/vs%20code/colab/2020/03/01/ColabGuide</id><content type="html" xml:base="https://uwesterr.github.io/MlFastAiBlog/fastpages/github/jupyter%20notebook/vs%20code/colab/2020/03/01/ColabGuide.html">&lt;h1 id=&quot;working-with-fastpages-github-and-colab&quot;&gt;Working with fastpages, GitHub and Colab&lt;/h1&gt;
+&lt;/blockquote&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;images/MpuWiringRapsi.png&quot; width=&quot;20%&quot; height=&quot;20%&quot; class=&quot;center&quot; /&gt;
+  &lt;figcaption&gt;Sensor MPU 6050&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;vnc-remote-access-a-raspberry-pi&quot;&gt;VNC: Remote access a Raspberry Pi&lt;/h2&gt;
+
+&lt;p&gt;Setting up a VNC connection from phone to the raspi follow the instructions given at&lt;/p&gt;
+
+&lt;p&gt;https://magpi.raspberrypi.org/articles/vnc-raspberry-pi&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-up-a-raspberry-pi-as-a-wireless-access-point&quot;&gt;Setting up a Raspberry Pi as a Wireless Access Point&lt;/h2&gt;
+
+&lt;p&gt;Setting up the raspi as a wireless access point so that you can use VNC on a camping ground follow instructions given at https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md 
+This documentation assumes that we are using the standard 192.168.x.x IP addresses for our wireless network, so we will assign the server the IP address 192.168.4.1.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Change default in &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo nano /etc/hostapd/hostapd.conf&lt;/code&gt; to something meaningful to you&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ssid=NameOfNetwork # change this
+hw_mode=g
+channel=7
+wmm_enabled=0
+macaddr_acl=0
+auth_algs=1
+ignore_broadcast_ssid=0
+wpa=2
+wpa_passphrase=AardvarkBadgerHedgehog # change this
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">Develop Android app to park a camper level</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://uwesterr.github.io/MlFastAiBlog/images/vsCodeSreenShot.png" /><media:content medium="image" url="https://uwesterr.github.io/MlFastAiBlog/images/vsCodeSreenShot.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Colabguide</title><link href="https://uwesterr.github.io/MlFastAiBlog/fastpages/github/jupyter%20notebook/vs%20code/colab/2020/03/01/ColabGuide.html" rel="alternate" type="text/html" title="Colabguide" /><published>2020-03-01T00:00:00-06:00</published><updated>2020-03-01T00:00:00-06:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/fastpages/github/jupyter%20notebook/vs%20code/colab/2020/03/01/ColabGuide</id><content type="html" xml:base="https://uwesterr.github.io/MlFastAiBlog/fastpages/github/jupyter%20notebook/vs%20code/colab/2020/03/01/ColabGuide.html">&lt;h1 id=&quot;working-with-fastpages-github-and-colab&quot;&gt;Working with fastpages, GitHub and Colab&lt;/h1&gt;
 
 &lt;hr /&gt;
 &lt;p&gt;The idea is to work with Jupyter Notebook in Colab, the notebook is part of a Fastpages blog and should be edited either in Colab or VS Code&lt;/p&gt;
