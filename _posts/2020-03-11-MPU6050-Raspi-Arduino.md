@@ -49,4 +49,4 @@ wpa_passphrase=AardvarkBadgerHedgehog # change this
 
 ## Measuring Rotation and acceleration with the Raspberry Pi
 
-Follow instructions at https://tutorials-raspberrypi.com/measuring-rotation-and-acceleration-raspberry-pi/
+Follow instructions at **MPU6050 (Accelerometer+Gyroscope) Interfacing with Raspberry Pi** https://www.electronicwings.com/raspberry-pi/mpu6050-accelerometergyroscope-interfacing-with-raspberry-pi
