@@ -1,4 +1,100 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://uwesterr.github.io/MlFastAiBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://uwesterr.github.io/MlFastAiBlog/" rel="alternate" type="text/html" /><updated>2020-03-08T13:46:36-05:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/feed.xml</id><title type="html">Machine learning with Uwe</title><subtitle>Blogs to make ML understandable and easy to get started</subtitle><entry><title type="html">Train donkeycar with GPU support in Colab</title><link href="https://uwesterr.github.io/MlFastAiBlog/donkeycar/colab/2020/03/01/TrainDonkeyCar.html" rel="alternate" type="text/html" title="Train donkeycar with GPU support in Colab" /><published>2020-03-01T00:00:00-06:00</published><updated>2020-03-01T00:00:00-06:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/donkeycar/colab/2020/03/01/TrainDonkeyCar</id><content type="html" xml:base="https://uwesterr.github.io/MlFastAiBlog/donkeycar/colab/2020/03/01/TrainDonkeyCar.html">&lt;!--
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://uwesterr.github.io/MlFastAiBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://uwesterr.github.io/MlFastAiBlog/" rel="alternate" type="text/html" /><updated>2020-03-11T05:34:20-05:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/feed.xml</id><title type="html">Machine learning with Uwe</title><subtitle>Blogs to make ML understandable and easy to get started</subtitle><entry><title type="html">Mpu6050 Raspi Arduino</title><link href="https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino.html" rel="alternate" type="text/html" title="Mpu6050 Raspi Arduino" /><published>2020-03-11T00:00:00-05:00</published><updated>2020-03-11T00:00:00-05:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino</id><content type="html" xml:base="https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino.html">&lt;h1 id=&quot;develop-android-app-to-park-caravan-level&quot;&gt;Develop Android app to park caravan level&lt;/h1&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;The idea&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter&quot;&gt;for juypter notebooks &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter&quot;&gt;for markdown&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;working-with-notebook-in-colab&quot;&gt;Working with notebook in Colab&lt;/h2&gt;</content><author><name></name></author><summary type="html">Develop Android app to park caravan level</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://uwesterr.github.io/MlFastAiBlog/images/vsCodeSreenShot.png" /><media:content medium="image" url="https://uwesterr.github.io/MlFastAiBlog/images/vsCodeSreenShot.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Colabguide</title><link href="https://uwesterr.github.io/MlFastAiBlog/fastpages/github/jupyter%20notebook/vs%20code/colab/2020/03/01/ColabGuide.html" rel="alternate" type="text/html" title="Colabguide" /><published>2020-03-01T00:00:00-06:00</published><updated>2020-03-01T00:00:00-06:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/fastpages/github/jupyter%20notebook/vs%20code/colab/2020/03/01/ColabGuide</id><content type="html" xml:base="https://uwesterr.github.io/MlFastAiBlog/fastpages/github/jupyter%20notebook/vs%20code/colab/2020/03/01/ColabGuide.html">&lt;h1 id=&quot;working-with-fastpages-github-and-colab&quot;&gt;Working with fastpages, GitHub and Colab&lt;/h1&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;The idea is to work with Jupyter Notebook in Colab, the notebook is part of a Fastpages blog and should be edited either in Colab or VS Code&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;write a Blog in Fastpages&lt;/li&gt;
+  &lt;li&gt;format of Blog is Jupyter Notebook&lt;/li&gt;
+  &lt;li&gt;run the Notebook in Colab&lt;/li&gt;
+  &lt;li&gt;also edit in VS Code is necessary
+    &lt;ul&gt;
+      &lt;li&gt;use Git to synchronize GitHub repo with VS Code local copy&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;write-a-blog-with-fastpages&quot;&gt;Write a blog with Fastpages&lt;/h2&gt;
+
+&lt;p&gt;A detailed instruction on how to write Fastpage blogs is given at&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter&quot;&gt;for juypter notebooks &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter&quot;&gt;for markdown&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;working-with-notebook-in-colab&quot;&gt;Working with notebook in Colab&lt;/h2&gt;
+
+&lt;p&gt;Once the blog is opened there are buttons&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;View on GitHub
+  The Jupyter Notbeook file is opened in the GitHub environment&lt;/li&gt;
+  &lt;li&gt;Open in Colab
+  The Jupyter Notbeook file is opened in the Colab environment &lt;sup id=&quot;fnref:colabNote&quot;&gt;&lt;a href=&quot;#fn:colabNote&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the Colab environment the file can be run with &lt;strong&gt;GPU&lt;/strong&gt; support. An intro to &lt;strong&gt;Colab&lt;/strong&gt; is given &lt;a href=&quot;https://colab.research.google.com/notebooks/welcome.ipynb&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To save the changes chose under &lt;strong&gt;“File”&lt;/strong&gt; the option &lt;strong&gt;“Save a copy in GitHub”&lt;/strong&gt; as shown below&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/MlFastAiBlog/images/colabSaveGithubCopy.png&quot; alt=&quot;&quot; title=&quot;Save copy to GitHub from within Colab&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Colab will open a dialog as shown below
+It might be that it asks for your GitHub credentials before opening the dialog&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/MlFastAiBlog/images/colabAskPermissionGitHub.png&quot; alt=&quot;&quot; title=&quot;Colab asks for permission to save to GitHub&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;working-with-vs-code&quot;&gt;Working with VS Code&lt;/h2&gt;
+
+&lt;p&gt;To work with the Fastpages blog clone the repository as described &lt;a href=&quot;https://code.visualstudio.com/docs/editor/versioncontrol#_cloning-a-repository&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It is then easy to synchronize with GitHub, note, don’t forget to pull the repo once you saved a notebook version from Colab to GitHub.&lt;/p&gt;
+
+&lt;h3 id=&quot;avoid-conflicting-versions&quot;&gt;Avoid conflicting versions&lt;/h3&gt;
+
+&lt;p&gt;If you do the following&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Change file in Colab&lt;/li&gt;
+  &lt;li&gt;Save to GitHub&lt;/li&gt;
+  &lt;li&gt;Change same file in VS&lt;/li&gt;
+  &lt;li&gt;Try to push&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You will have *conflicts in the file** and need command line magic to solve the issue. I ended up setting the whole blog up from scratch.&lt;/p&gt;
+
+&lt;p&gt;Better: use &lt;strong&gt;Git: Snyc&lt;/strong&gt; which does a &lt;strong&gt;Git: Pull&lt;/strong&gt; first and then a &lt;strong&gt;Git: Push&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:colabNote&quot;&gt;
+      &lt;p&gt;Anybody can open a copy of any github-hosted notebook within Colab just add for markup&lt;br /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)&lt;/code&gt;&lt;br /&gt;
+or for html&lt;br /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;a href=&quot;https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb&quot;&amp;gt;
+&amp;lt;img src=&quot;https://colab.research.google.com/assets/colab-badge.   svg&quot; alt=&quot;Open In Colab&quot;/&amp;gt;
+&amp;lt;/a&amp;gt;&lt;/code&gt; &lt;a href=&quot;#fnref:colabNote&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Working with fastpages, GitHub and Colab</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://uwesterr.github.io/MlFastAiBlog/images/vsCodeSreenShot.png" /><media:content medium="image" url="https://uwesterr.github.io/MlFastAiBlog/images/vsCodeSreenShot.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Train donkeycar with GPU support in Colab</title><link href="https://uwesterr.github.io/MlFastAiBlog/donkeycar/colab/2020/03/01/TrainDonkeyCar.html" rel="alternate" type="text/html" title="Train donkeycar with GPU support in Colab" /><published>2020-03-01T00:00:00-06:00</published><updated>2020-03-01T00:00:00-06:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/donkeycar/colab/2020/03/01/TrainDonkeyCar</id><content type="html" xml:base="https://uwesterr.github.io/MlFastAiBlog/donkeycar/colab/2020/03/01/TrainDonkeyCar.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
@@ -5076,93 +5172,7 @@ drwxr-xr-x 2 root root 4.0K Mar  2 10:54 __pycache__
 &lt;/div&gt;
     
 
-&lt;/div&gt;</content><author><name>Uwe Sterr</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://uwesterr.github.io/MlFastAiBlog/images/roboCar2020.jpg" /><media:content medium="image" url="https://uwesterr.github.io/MlFastAiBlog/images/roboCar2020.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Colabguide</title><link href="https://uwesterr.github.io/MlFastAiBlog/fastpages/github/jupyter%20notebook/vs%20code/colab/2020/03/01/ColabGuide.html" rel="alternate" type="text/html" title="Colabguide" /><published>2020-03-01T00:00:00-06:00</published><updated>2020-03-01T00:00:00-06:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/fastpages/github/jupyter%20notebook/vs%20code/colab/2020/03/01/ColabGuide</id><content type="html" xml:base="https://uwesterr.github.io/MlFastAiBlog/fastpages/github/jupyter%20notebook/vs%20code/colab/2020/03/01/ColabGuide.html">&lt;h1 id=&quot;working-with-fastpages-github-and-colab&quot;&gt;Working with fastpages, GitHub and Colab&lt;/h1&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;The idea is to work with Jupyter Notebook in Colab, the notebook is part of a Fastpages blog and should be edited either in Colab or VS Code&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;write a Blog in Fastpages&lt;/li&gt;
-  &lt;li&gt;format of Blog is Jupyter Notebook&lt;/li&gt;
-  &lt;li&gt;run the Notebook in Colab&lt;/li&gt;
-  &lt;li&gt;also edit in VS Code is necessary
-    &lt;ul&gt;
-      &lt;li&gt;use Git to synchronize GitHub repo with VS Code local copy&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;write-a-blog-with-fastpages&quot;&gt;Write a blog with Fastpages&lt;/h2&gt;
-
-&lt;p&gt;A detailed instruction on how to write Fastpage blogs is given at&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter&quot;&gt;for juypter notebooks &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter&quot;&gt;for markdown&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;working-with-notebook-in-colab&quot;&gt;Working with notebook in Colab&lt;/h2&gt;
-
-&lt;p&gt;Once the blog is opened there are buttons&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;View on GitHub
-  The Jupyter Notbeook file is opened in the GitHub environment&lt;/li&gt;
-  &lt;li&gt;Open in Colab
-  The Jupyter Notbeook file is opened in the Colab environment &lt;sup id=&quot;fnref:colabNote&quot;&gt;&lt;a href=&quot;#fn:colabNote&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In the Colab environment the file can be run with &lt;strong&gt;GPU&lt;/strong&gt; support. An intro to &lt;strong&gt;Colab&lt;/strong&gt; is given &lt;a href=&quot;https://colab.research.google.com/notebooks/welcome.ipynb&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;To save the changes chose under &lt;strong&gt;“File”&lt;/strong&gt; the option &lt;strong&gt;“Save a copy in GitHub”&lt;/strong&gt; as shown below&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;img src=&quot;/MlFastAiBlog/images/colabSaveGithubCopy.png&quot; alt=&quot;&quot; title=&quot;Save copy to GitHub from within Colab&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Colab will open a dialog as shown below
-It might be that it asks for your GitHub credentials before opening the dialog&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;img src=&quot;/MlFastAiBlog/images/colabAskPermissionGitHub.png&quot; alt=&quot;&quot; title=&quot;Colab asks for permission to save to GitHub&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;working-with-vs-code&quot;&gt;Working with VS Code&lt;/h2&gt;
-
-&lt;p&gt;To work with the Fastpages blog clone the repository as described &lt;a href=&quot;https://code.visualstudio.com/docs/editor/versioncontrol#_cloning-a-repository&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;It is then easy to synchronize with GitHub, note, don’t forget to pull the repo once you saved a notebook version from Colab to GitHub.&lt;/p&gt;
-
-&lt;h3 id=&quot;avoid-conflicting-versions&quot;&gt;Avoid conflicting versions&lt;/h3&gt;
-
-&lt;p&gt;If you do the following&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Change file in Colab&lt;/li&gt;
-  &lt;li&gt;Save to GitHub&lt;/li&gt;
-  &lt;li&gt;Change same file in VS&lt;/li&gt;
-  &lt;li&gt;Try to push&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You will have *conflicts in the file** and need command line magic to solve the issue. I ended up setting the whole blog up from scratch.&lt;/p&gt;
-
-&lt;p&gt;Better: use &lt;strong&gt;Git: Snyc&lt;/strong&gt; which does a &lt;strong&gt;Git: Pull&lt;/strong&gt; first and then a &lt;strong&gt;Git: Push&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:colabNote&quot;&gt;
-      &lt;p&gt;Anybody can open a copy of any github-hosted notebook within Colab just add for markup&lt;br /&gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)&lt;/code&gt;&lt;br /&gt;
-or for html&lt;br /&gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;a href=&quot;https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb&quot;&amp;gt;
-&amp;lt;img src=&quot;https://colab.research.google.com/assets/colab-badge.   svg&quot; alt=&quot;Open In Colab&quot;/&amp;gt;
-&amp;lt;/a&amp;gt;&lt;/code&gt; &lt;a href=&quot;#fnref:colabNote&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Working with fastpages, GitHub and Colab</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://uwesterr.github.io/MlFastAiBlog/images/vsCodeSreenShot.png" /><media:content medium="image" url="https://uwesterr.github.io/MlFastAiBlog/images/vsCodeSreenShot.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://uwesterr.github.io/MlFastAiBlog/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/jupyter/2020/02/20/test</id><content type="html" xml:base="https://uwesterr.github.io/MlFastAiBlog/jupyter/2020/02/20/test.html">&lt;!--
+&lt;/div&gt;</content><author><name>Uwe Sterr</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://uwesterr.github.io/MlFastAiBlog/images/roboCar2020.jpg" /><media:content medium="image" url="https://uwesterr.github.io/MlFastAiBlog/images/roboCar2020.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://uwesterr.github.io/MlFastAiBlog/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/jupyter/2020/02/20/test</id><content type="html" xml:base="https://uwesterr.github.io/MlFastAiBlog/jupyter/2020/02/20/test.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
