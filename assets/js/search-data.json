@@ -2,8 +2,8 @@
   
     
         "post0": {
-            "title": "Mpu6050 Raspi Arduino",
-            "content": "Develop Android app to park caravan level . . The idea . for juypter notebooks | for markdown | . Working with notebook in Colab .",
+            "title": "Develop Android app to park caravan level",
+            "content": "Develop Android app to park caravan level . . In the blog Rotationssensor MPU-6050 mit WebGL am Raspberry Pi visualisieren . Der Raspberry Pi ist zu vielem in der Lage, so können einfach Rotations- und Beschleunigugnswerte mittels eines Sensors, wie dem MPU-6050, ausgelesen werden. Das Ergebnis sind jedoch einfache Zahlen, worunter man sich im Normalfall nicht all zu viel vorstellen wird. Jedoch ist es sehr einfach diese Zahlen zu visualisieren. Dies geht in modernen Browsern ganz einfach mittels WebGL, womit man 2D und 3D Objekte im Browser rendern kann. .",
             "url": "https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino.html",
             "relUrl": "/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino.html",
             "date": " • Mar 11, 2020"
