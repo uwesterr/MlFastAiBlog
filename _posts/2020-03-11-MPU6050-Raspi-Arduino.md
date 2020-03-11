@@ -1,12 +1,12 @@
 ---
 toc: true
-title: Develop Android app to park caravan level
-description: How to develop an Android app using a MPU6050 and a Raspi to help parking a caravan level
+title: Develop Android app to park a camper level
+description: How to develop an Android app using a MPU6050 and a Raspi to help parking a camper level
 categories: [Raspi,  MPU6050, Android]
 image: images/vsCodeSreenShot.png
 comments: true
 ---
-# Develop Android app to park caravan level
+# Develop Android app to park a camper level
 
 
 --- 
