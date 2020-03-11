@@ -47,3 +47,6 @@ wpa=2
 wpa_passphrase=AardvarkBadgerHedgehog # change this
 ```
 
+## Measuring Rotation and acceleration with the Raspberry Pi
+
+Follow instructions at https://tutorials-raspberrypi.com/measuring-rotation-and-acceleration-raspberry-pi/
