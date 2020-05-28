@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://uwesterr.github.io/MlFastAiBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://uwesterr.github.io/MlFastAiBlog/" rel="alternate" type="text/html" /><updated>2020-03-12T04:07:57-05:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/feed.xml</id><title type="html">Machine learning with Uwe</title><subtitle>Blogs to make ML understandable and easy to get started</subtitle><entry><title type="html">Develop Android app to park a camper level</title><link href="https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino.html" rel="alternate" type="text/html" title="Develop Android app to park a camper level" /><published>2020-03-11T00:00:00-05:00</published><updated>2020-03-11T00:00:00-05:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino</id><content type="html" xml:base="https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino.html">&lt;h1 id=&quot;develop-android-app-to-park-a-camper-level&quot;&gt;Develop Android app to park a camper level&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://uwesterr.github.io/MlFastAiBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://uwesterr.github.io/MlFastAiBlog/" rel="alternate" type="text/html" /><updated>2020-05-28T02:22:40-05:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/feed.xml</id><title type="html">Machine learning with Uwe</title><subtitle>Blogs to make ML understandable and easy to get started</subtitle><entry><title type="html">Develop Android app to park a camper level</title><link href="https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino.html" rel="alternate" type="text/html" title="Develop Android app to park a camper level" /><published>2020-03-11T00:00:00-05:00</published><updated>2020-03-11T00:00:00-05:00</updated><id>https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino</id><content type="html" xml:base="https://uwesterr.github.io/MlFastAiBlog/raspi/mpu6050/android/2020/03/11/MPU6050-Raspi-Arduino.html">&lt;h1 id=&quot;develop-android-app-to-park-a-camper-level&quot;&gt;Develop Android app to park a camper level&lt;/h1&gt;
 
 &lt;hr /&gt;
 
@@ -258,6 +258,13 @@ or for html&lt;br /&gt;
 
 &lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
 &lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/github/uwesterr/MlFastAiBlog/blob/master/_notebooks/2020-03-01-TrainDonkeyCar.ipynb&quot; target=&quot;_parent&quot;&gt;&lt;img src=&quot;https://colab.research.google.com/assets/colab-badge.svg&quot; alt=&quot;Open In Colab&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
+&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
 &lt;h1 id=&quot;Credit&quot;&gt;Credit&lt;a class=&quot;anchor-link&quot; href=&quot;#Credit&quot;&gt; &lt;/a&gt;&lt;/h1&gt;&lt;p&gt;&lt;div class=&quot;flash&quot;&gt;
     &lt;svg class=&quot;octicon octicon-info octicon octicon-info octicon octicon-info&quot; viewBox=&quot;0 0 14 16&quot; version=&quot;1.1&quot; width=&quot;14&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M6.3 5.69a.942.942 0 01-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 01-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
     &lt;strong&gt;Note: &lt;/strong&gt;This notebook is based on &lt;a href=&quot;https://colab.research.google.com/github/robocarstore/donkey-car-training-on-google-colab/blob/master/Donkey_Car_Training_using_Google_Colab.ipynb&quot;&gt;https://colab.research.google.com/github/robocarstore/donkey-car-training-on-google-colab/blob/master/Donkey_Car_Training_using_Google_Colab.ipynb&lt;/a&gt;
@@ -307,7 +314,7 @@ or for html&lt;br /&gt;
 You set: `1.13.1`. This will be interpreted as: `1.x`.
 
 
-TensorFlow is already loaded. Please restart the runtime to change versions.
+TensorFlow 1.x selected.
 &lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -369,12 +376,7 @@ TensorFlow is already loaded. Please restart the runtime to change versions.
 &lt;div class=&quot;output_area&quot;&gt;
 
 &lt;div class=&quot;output_subarea output_stream output_stdout output_text&quot;&gt;
-&lt;pre&gt;`%tensorflow_version` only switches the major version: 1.x or 2.x.
-You set: `1.13.1`. This will be interpreted as: `1.x`.
-
-
-TensorFlow 1.x selected.
-1.15.0
+&lt;pre&gt;1.15.2
 &lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -426,12 +428,10 @@ TensorFlow 1.x selected.
 
 &lt;div class=&quot;output_subarea output_stream output_stdout output_text&quot;&gt;
 &lt;pre&gt;Cloning into &amp;#39;donkeycar&amp;#39;...
-remote: Enumerating objects: 232, done.
-remote: Counting objects: 100% (232/232), done.
-remote: Compressing objects: 100% (141/141), done.
-remote: Total 12180 (delta 119), reused 162 (delta 60), pack-reused 11948
-Receiving objects: 100% (12180/12180), 65.21 MiB | 19.92 MiB/s, done.
-Resolving deltas: 100% (7621/7621), done.
+remote: Enumerating objects: 12972, done.
+remote: Total 12972 (delta 0), reused 0 (delta 0), pack-reused 12972
+Receiving objects: 100% (12972/12972), 67.74 MiB | 28.23 MiB/s, done.
+Resolving deltas: 100% (8193/8193), done.
 /content/donkeycar
 Branch &amp;#39;master&amp;#39; set up to track remote branch &amp;#39;master&amp;#39; from &amp;#39;origin&amp;#39;.
 Switched to a new branch &amp;#39;master&amp;#39;
@@ -473,36 +473,35 @@ Switched to a new branch &amp;#39;master&amp;#39;
 
 &lt;div class=&quot;output_subarea output_stream output_stdout output_text&quot;&gt;
 &lt;pre&gt;Obtaining file:///content/donkeycar
-Requirement already satisfied: numpy in /usr/local/lib/python3.6/dist-packages (from donkeycar==3.1.1) (1.17.5)
-Requirement already satisfied: pillow in /usr/local/lib/python3.6/dist-packages (from donkeycar==3.1.1) (6.2.2)
-Requirement already satisfied: docopt in /usr/local/lib/python3.6/dist-packages (from donkeycar==3.1.1) (0.6.2)
-Requirement already satisfied: tornado in /usr/local/lib/python3.6/dist-packages (from donkeycar==3.1.1) (4.5.3)
-Requirement already satisfied: requests in /usr/local/lib/python3.6/dist-packages (from donkeycar==3.1.1) (2.21.0)
-Requirement already satisfied: h5py in /usr/local/lib/python3.6/dist-packages (from donkeycar==3.1.1) (2.8.0)
-Requirement already satisfied: moviepy in /usr/local/lib/python3.6/dist-packages (from donkeycar==3.1.1) (0.2.3.5)
-Requirement already satisfied: pandas in /usr/local/lib/python3.6/dist-packages (from donkeycar==3.1.1) (0.25.3)
-Requirement already satisfied: PrettyTable in /usr/local/lib/python3.6/dist-packages (from donkeycar==3.1.1) (0.7.2)
+Requirement already satisfied: numpy in /usr/local/lib/python3.6/dist-packages (from donkeycar==3.1.2) (1.18.4)
+Requirement already satisfied: pillow in /usr/local/lib/python3.6/dist-packages (from donkeycar==3.1.2) (7.0.0)
+Requirement already satisfied: docopt in /usr/local/lib/python3.6/dist-packages (from donkeycar==3.1.2) (0.6.2)
+Requirement already satisfied: tornado in /usr/local/lib/python3.6/dist-packages (from donkeycar==3.1.2) (4.5.3)
+Requirement already satisfied: requests in /usr/local/lib/python3.6/dist-packages (from donkeycar==3.1.2) (2.23.0)
+Requirement already satisfied: h5py in /usr/local/lib/python3.6/dist-packages (from donkeycar==3.1.2) (2.10.0)
+Requirement already satisfied: moviepy in /usr/local/lib/python3.6/dist-packages (from donkeycar==3.1.2) (0.2.3.5)
+Requirement already satisfied: pandas in /usr/local/lib/python3.6/dist-packages (from donkeycar==3.1.2) (1.0.3)
+Requirement already satisfied: PrettyTable in /usr/local/lib/python3.6/dist-packages (from donkeycar==3.1.2) (0.7.2)
 Collecting paho-mqtt
   Downloading https://files.pythonhosted.org/packages/59/11/1dd5c70f0f27a88a3a05772cd95f6087ac479fac66d9c7752ee5e16ddbbc/paho-mqtt-1.5.0.tar.gz (99kB)
-     |████████████████████████████████| 102kB 4.9MB/s 
-Requirement already satisfied: matplotlib in /usr/local/lib/python3.6/dist-packages (from donkeycar==3.1.1) (3.1.3)
-Requirement already satisfied: idna&amp;lt;2.9,&amp;gt;=2.5 in /usr/local/lib/python3.6/dist-packages (from requests-&amp;gt;donkeycar==3.1.1) (2.8)
-Requirement already satisfied: certifi&amp;gt;=2017.4.17 in /usr/local/lib/python3.6/dist-packages (from requests-&amp;gt;donkeycar==3.1.1) (2019.11.28)
-Requirement already satisfied: urllib3&amp;lt;1.25,&amp;gt;=1.21.1 in /usr/local/lib/python3.6/dist-packages (from requests-&amp;gt;donkeycar==3.1.1) (1.24.3)
-Requirement already satisfied: chardet&amp;lt;3.1.0,&amp;gt;=3.0.2 in /usr/local/lib/python3.6/dist-packages (from requests-&amp;gt;donkeycar==3.1.1) (3.0.4)
-Requirement already satisfied: six in /usr/local/lib/python3.6/dist-packages (from h5py-&amp;gt;donkeycar==3.1.1) (1.12.0)
-Requirement already satisfied: imageio&amp;lt;3.0,&amp;gt;=2.1.2 in /usr/local/lib/python3.6/dist-packages (from moviepy-&amp;gt;donkeycar==3.1.1) (2.4.1)
-Requirement already satisfied: decorator&amp;lt;5.0,&amp;gt;=4.0.2 in /usr/local/lib/python3.6/dist-packages (from moviepy-&amp;gt;donkeycar==3.1.1) (4.4.1)
-Requirement already satisfied: tqdm&amp;lt;5.0,&amp;gt;=4.11.2 in /usr/local/lib/python3.6/dist-packages (from moviepy-&amp;gt;donkeycar==3.1.1) (4.28.1)
-Requirement already satisfied: python-dateutil&amp;gt;=2.6.1 in /usr/local/lib/python3.6/dist-packages (from pandas-&amp;gt;donkeycar==3.1.1) (2.6.1)
-Requirement already satisfied: pytz&amp;gt;=2017.2 in /usr/local/lib/python3.6/dist-packages (from pandas-&amp;gt;donkeycar==3.1.1) (2018.9)
-Requirement already satisfied: pyparsing!=2.0.4,!=2.1.2,!=2.1.6,&amp;gt;=2.0.1 in /usr/local/lib/python3.6/dist-packages (from matplotlib-&amp;gt;donkeycar==3.1.1) (2.4.6)
-Requirement already satisfied: cycler&amp;gt;=0.10 in /usr/local/lib/python3.6/dist-packages (from matplotlib-&amp;gt;donkeycar==3.1.1) (0.10.0)
-Requirement already satisfied: kiwisolver&amp;gt;=1.0.1 in /usr/local/lib/python3.6/dist-packages (from matplotlib-&amp;gt;donkeycar==3.1.1) (1.1.0)
-Requirement already satisfied: setuptools in /usr/local/lib/python3.6/dist-packages (from kiwisolver&amp;gt;=1.0.1-&amp;gt;matplotlib-&amp;gt;donkeycar==3.1.1) (45.2.0)
+     |████████████████████████████████| 102kB 3.8MB/s 
+Requirement already satisfied: matplotlib in /usr/local/lib/python3.6/dist-packages (from donkeycar==3.1.2) (3.2.1)
+Requirement already satisfied: urllib3!=1.25.0,!=1.25.1,&amp;lt;1.26,&amp;gt;=1.21.1 in /usr/local/lib/python3.6/dist-packages (from requests-&amp;gt;donkeycar==3.1.2) (1.24.3)
+Requirement already satisfied: chardet&amp;lt;4,&amp;gt;=3.0.2 in /usr/local/lib/python3.6/dist-packages (from requests-&amp;gt;donkeycar==3.1.2) (3.0.4)
+Requirement already satisfied: idna&amp;lt;3,&amp;gt;=2.5 in /usr/local/lib/python3.6/dist-packages (from requests-&amp;gt;donkeycar==3.1.2) (2.9)
+Requirement already satisfied: certifi&amp;gt;=2017.4.17 in /usr/local/lib/python3.6/dist-packages (from requests-&amp;gt;donkeycar==3.1.2) (2020.4.5.1)
+Requirement already satisfied: six in /usr/local/lib/python3.6/dist-packages (from h5py-&amp;gt;donkeycar==3.1.2) (1.12.0)
+Requirement already satisfied: imageio&amp;lt;3.0,&amp;gt;=2.1.2 in /usr/local/lib/python3.6/dist-packages (from moviepy-&amp;gt;donkeycar==3.1.2) (2.4.1)
+Requirement already satisfied: tqdm&amp;lt;5.0,&amp;gt;=4.11.2 in /usr/local/lib/python3.6/dist-packages (from moviepy-&amp;gt;donkeycar==3.1.2) (4.41.1)
+Requirement already satisfied: decorator&amp;lt;5.0,&amp;gt;=4.0.2 in /usr/local/lib/python3.6/dist-packages (from moviepy-&amp;gt;donkeycar==3.1.2) (4.4.2)
+Requirement already satisfied: python-dateutil&amp;gt;=2.6.1 in /usr/local/lib/python3.6/dist-packages (from pandas-&amp;gt;donkeycar==3.1.2) (2.8.1)
+Requirement already satisfied: pytz&amp;gt;=2017.2 in /usr/local/lib/python3.6/dist-packages (from pandas-&amp;gt;donkeycar==3.1.2) (2018.9)
+Requirement already satisfied: cycler&amp;gt;=0.10 in /usr/local/lib/python3.6/dist-packages (from matplotlib-&amp;gt;donkeycar==3.1.2) (0.10.0)
+Requirement already satisfied: kiwisolver&amp;gt;=1.0.1 in /usr/local/lib/python3.6/dist-packages (from matplotlib-&amp;gt;donkeycar==3.1.2) (1.2.0)
+Requirement already satisfied: pyparsing!=2.0.4,!=2.1.2,!=2.1.6,&amp;gt;=2.0.1 in /usr/local/lib/python3.6/dist-packages (from matplotlib-&amp;gt;donkeycar==3.1.2) (2.4.7)
 Building wheels for collected packages: paho-mqtt
   Building wheel for paho-mqtt (setup.py) ... done
-  Created wheel for paho-mqtt: filename=paho_mqtt-1.5.0-cp36-none-any.whl size=61416 sha256=7f50315883bda4885cd47da68ae05b9a27f25915bfca823b3bd155bdaa8c42ea
+  Created wheel for paho-mqtt: filename=paho_mqtt-1.5.0-cp36-none-any.whl size=61416 sha256=b8cfc8840a4e4a3f4473acfc47dfa3468790e8eb64b5c73441b2b5871fe745de
   Stored in directory: /root/.cache/pip/wheels/02/94/6c/8474137cb7a5a3e001d70a22c8ff919caee69435376bccce79
 Successfully built paho-mqtt
 Installing collected packages: paho-mqtt, donkeycar
@@ -549,7 +548,7 @@ Successfully installed donkeycar paho-mqtt-1.5.0
 &lt;div class=&quot;output_area&quot;&gt;
 
 &lt;div class=&quot;output_subarea output_stream output_stdout output_text&quot;&gt;
-&lt;pre&gt;using donkey v3.1.1 ...
+&lt;pre&gt;using donkey v3.1.2 ...
 Creating car folder: /content/mycar
 making dir  /content/mycar
 Creating data &amp;amp; model folders.
@@ -656,6 +655,24 @@ When you run the cell below, you will need to click the link and generate an aut
 &lt;/pre&gt;&lt;/div&gt;
 
     &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;output_wrapper&quot;&gt;
+&lt;div class=&quot;output&quot;&gt;
+
+&lt;div class=&quot;output_area&quot;&gt;
+
+&lt;div class=&quot;output_subarea output_stream output_stdout output_text&quot;&gt;
+&lt;pre&gt;Go to this URL in a browser: https://accounts.google.com/o/oauth2/auth?client_id=947318989803-6bn6qk8qdgf4n4g3pfee6491hc0brc4i.apps.googleusercontent.com&amp;amp;redirect_uri=urn%3aietf%3awg%3aoauth%3a2.0%3aoob&amp;amp;response_type=code&amp;amp;scope=email%20https%3a%2f%2fwww.googleapis.com%2fauth%2fdocs.test%20https%3a%2f%2fwww.googleapis.com%2fauth%2fdrive%20https%3a%2f%2fwww.googleapis.com%2fauth%2fdrive.photos.readonly%20https%3a%2f%2fwww.googleapis.com%2fauth%2fpeopleapi.readonly
+
+Enter your authorization code:
+··········
+Mounted at /content/drive
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -783,85 +800,7 @@ When you run the cell below, you will need to click the link and generate an aut
 
 
 &lt;div class=&quot;output_jpeg output_subarea output_execute_result&quot;&gt;
-&lt;img src=&quot;data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
-HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
-MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAB4AKADASIA
-AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
-AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
-ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
-p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
-AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
-BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
-U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
-uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCoFVeg
-5PQVct7Q7t78t6elNt4W3b2GT29q1E8pYG3FhLkbcDjHfP6VJKFiiwOMVowBQBnB+tZfmntUscxH
-TrSuWkdHbKrkZNa9u8CYGdx9q5a1Z3IBPHpXU6bZSSsoQdsn6UIGaMc7EYSMD681YUTycF2+gpj3
-Ol6ehM91EWHVVbcfyFFr4isLmdIYFl3OwAyoA9PWmIl+xMTyD+NOFgxB4A+tYeq+LLi2mlhgijUq
-xXc2SeKw28X6sRj7UB9I1/woY7HXXOmylSQua8tsM2viS3ibgJdbD9N+DXSWHiDULjV7JJbyUo9x
-GpXdgEFgOlY/iOD7J4lunUYIuDIPxOaBG9rA8jWFJ4MkSv8A0/pXS6DOhwM9Riud8agQ3djOv3XR
-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
-mQkD0HWiihENn//Z
+&lt;img src=&quot;data:image/jpeg;base64,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
 &quot; /&gt;
 &lt;/div&gt;
 
@@ -907,7 +846,7 @@ mQkD0HWiihENn//Z
 
 &lt;div class=&quot;output_subarea output_stream output_stdout output_text&quot;&gt;
 &lt;pre&gt;/content/mycar
-using donkey v3.1.1 ...
+using donkey v3.1.2 ...
 TubGroup:tubpaths: [&amp;#39;/content/mycar/data/tubVaihingenIIICleaned200126&amp;#39;]
 joining the tubs 14234 records together. This could take 0 minutes.
 saving image to: tubVaihingenIIICleaned200126_hist_user_angle.png
@@ -921,216 +860,7 @@ saving image to: tubVaihingenIIICleaned200126_hist_user_angle.png
 
 
 &lt;div class=&quot;output_png output_subarea output_execute_result&quot;&gt;
-&lt;img src=&quot;data:image/png;base64,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
-6NikSZOsf/zHf+zUfUZCR2fTka9B3YUk6+233253zcKFC63rr78+6NjPf/5zKycnpzO3FnGXMpsP
-PvjAkmT95S9/CdOuuh6eAcRVV1VVpdTUVA0bNkzz5s3TkSNHIr2liDt48KDcbreysrICx5KTkzVp
-0iRVV1dHcGdXV3V1tVJSUjRhwoTAsaysLMXGxmr37t3t3vb1119Xv379NGrUKC1atEinT5/u7O12
-msbGRtXU1AT9946NjVVWVlbI/97V1dVB6yUpJyenWz0+pMubjSSdPHlSQ4YMUXp6umbOnKm6urpw
-bDeqmfKYuRLjxo3TgAEDNH36dH344YeR3k5U4Udl46q69dZbdeeddyojI0NfffWV/vmf/1kzZsxQ
-dXW14uLiIr29iGl53YnD4Qg67nA4utVrUtxud6tvsfTo0UN9+vRp9zp/8YtfaMiQIRo4cKA++eQT
-Pfroo6qvr9dbb73V2VvuFH/+85/V1NTU5n/vzz//vM3buN3ubv/4kC5vNsOGDdOrr76qMWPG6Pjx
-43r66ad14403qq6uToMGDQrHtqNSqMeM1+vVmTNn1LNnzwjtLPIGDBigNWvWaMKECfL5fHrllVc0
-ZcoU7d69W+PHj4/09qICAWiYxx57TL/97W/bXfPZZ59p+PDhl3X/d911V+DfR48erTFjxui6665T
-VVWVbrnllsu6z3Dp7Nl0ZZc6m8t14WsER48erQEDBuiWW27RV199peuuu+6y7xfdg9PplNPpDHx8
-4403asSIEfrd736nZcuWRXBniFbDhg0L+mtdb7zxRn311VdavXq1/uM//iOCO4seBKBh/umf/km/
-/OUv211z7bXXXrXf79prr1W/fv305ZdfRn0AduZs0tLSJEkej0cDBgwIHPd4PBo3btxl3Wc4Xeps
-0tLSWr2Q/9y5czp69GhgBpdi0qRJkqQvv/yySwZgv379FBcXJ4/HE3Tc4/GEnENaWlqH1ndVlzOb
-i8XHx+uGG27Ql19+2Rlb7DJCPWbsdrvRz/6FMnHiRO3YsSPS24gaBKBh+vfvr/79+4ft9/v22291
-5MiRoOiJVp05m4yMDKWlpamysjIQfF6vV7t37+7wu6wj4VJn43Q6dezYMdXU1CgzM1OStHXrVjU3
-Nwei7lLU1tZKUpd43LQlISFBmZmZqqys1B133CFJam5uVmVlpR566KE2b+N0OlVZWanCwsLAMZfL
-FfTMV3dwObO5WFNTk/bv36/bbrutM7ca9ZxOZ6sfFdQdHzNXS21tbZf9mtIpIv0uFESvr7/+2tq3
-b5+1ZMkSq3fv3ta+ffusffv2WSdOnAisGTZsmPXWW29ZlmVZJ06csH71q19Z1dXV1sGDB60tW7ZY
-48ePt370ox9ZZ8+ejdRldIqOzsayLOvJJ5+0UlJSrHfffdf65JNPrJkzZ1oZGRnWmTNnInEJnebW
-W2+1brjhBmv37t3Wjh07rB/96EfWrFmzAue//fZba9iwYdbu3bsty7KsL7/80lq6dKn10UcfWQcP
-HrTeffdd69prr7VuuummSF3CVfHGG29YNpvNKi0ttQ4cOGA98MADVkpKiuV2uy3Lsqw5c+ZYjz32
-WGD9hx9+aPXo0cN6+umnrc8++8z69a9/bcXHx1v79++P1CV0mo7OZsmSJVZ5ebn11VdfWTU1NdZd
-d91lJSYmWnV1dZG6hE5x4sSJwNcSSdYzzzxj7du3z/r6668ty7Ksxx57zJozZ05g/R//+EcrKSnJ
-WrBggfXZZ59ZJSUlVlxcnPX+++9H6hI6TUdns3r1auudd96xvvjiC2v//v3WI488YsXGxlpbtmyJ
-1CVEHQIQIeXn51uSWv364IMPAmskWevWrbMsy7JOnz5tZWdnW/3797fi4+OtIUOGWPfff3/gi3p3
-0tHZWNb5HwXzxBNPWA6Hw7LZbNYtt9xi1dfXh3/znezIkSPWrFmzrN69e1t2u9265557gsL44MGD
-QbNqaGiwbrrpJqtPnz6WzWazhg4dai1YsMA6fvx4hK7g6nnhhReswYMHWwkJCdbEiROtXbt2Bc7d
-fPPNVn5+ftD6DRs2WD/+8Y+thIQE6/rrr7fKysrCvOPw6chsCgsLA2sdDod12223WR9//HEEdt25
-Wn50ycW/WmaRn59v3Xzzza1uM27cOCshIcG69tprg77mdCcdnc1vf/tb67rrrrMSExOtPn36WFOm
-TLG2bt0amc1HqRjLsqywPd0IAACAiOPnAAIAABiGAAQAADAMAQgAAGAYAhAAAMAwBCAAAIBhCEAA
-AADDEIAAAACGIQABAAAMQwACAAAYhgAEAAAwDAEIAABgGAIQAADAMAQgAACAYQhAAAAAwxCAAAAA
-hiEAAQAADEMAAgAAGIYABAAAMAwBCAAAYBgCEAAAwDAEIAAAgGEIQAAAAMMQgAAAAIYhAAEAAAxD
-AAIAABiGAAQAADAMAQgAAGAYAhAAAMAwBCAAAIBhCEAAAADDEIAAAACG+X/3DwfMrAnGyAAAAABJ
-RU5ErkJggg==
+&lt;img src=&quot;data:image/png;base64,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J+2wC7KA77Fu3TorOTn5ktbm5+dbM2fO7OQdRY9LnU1zc7OVlpZmPfXUU4Fjx44ds2w2m/X73/++M7cYVgcOHLAkWXv37g0c+8Mf/mDFxMRY//d//xfydjfffLP1yCOPhGOLYTNx4kSroKAg8HFTU5M1cOBAa8WKFW2u//u//3srNzc36NikSZOsf/zHf+zUfUZCR2fTka9B3YUk6+233253zcKFC63rr78+6NjPf/5zKycnpzO3FnGXMpsPPvjAkmT95S9/CdOuuh6eAcRVV1VVpdTUVA0bNkzz5s3TkSNHIr2liDt48KDcbreysrICx5KTkzVp0iRVV1dHcGdXV3V1tVJSUjRhwoTAsaysLMXGxmr37t3t3vb1119Xv379NGrUKC1atEinT5/u7O12msbGRtXU1AT9946NjVVWVlbI/97V1dVB6yUpJyenWz0+pMubjSSdPHlSQ4YMUXp6umbOnKm6urpwbDeqmfKYuRLjxo3TgAEDNH36dH344YeR3k5U4Udl46q69dZbdeeddyojI0NfffWV/vmf/1kzZsxQdXW14uLiIr29iGl53YnD4Qg67nA4utVrUtxud6tvsfTo0UN9+vRp9zp/8YtfaMiQIRo4cKA++eQTPfroo6qvr9dbb73V2VvuFH/+85/V1NTU5n/vzz//vM3buN3ubv/4kC5vNsOGDdOrr76qMWPG6Pjx43r66ad14403qq6uToMGDQrHtqNSqMeM1+vVmTNn1LNnzwjtLPIGDBigNWvWaMKECfL5fHrllVc0ZcoU7d69W+PHj4/09qICAWiYxx57TL/97W/bXfPZZ59p+PDhl3X/d911V+DfR48erTFjxui6665TVVWVbrnllsu6z3Dp7Nl0ZZc6m8t14WsER48erQEDBuiWW27RV199peuuu+6y7xfdg9PplNPpDHx84403asSIEfrd736nZcuWRXBniFbDhg0L+mtdb7zxRn311VdavXq1/uM//iOCO4seBKBh/umf/km//OUv211z7bXXXrXf79prr1W/fv305ZdfRn0AduZs0tLSJEkej0cDBgwIHPd4PBo3btxl3Wc4Xeps0tLSWr2Q/9y5czp69GhgBpdi0qRJkqQvv/yySwZgv379FBcXJ4/HE3Tc4/GEnENaWlqH1ndVlzObi8XHx+uGG27Ql19+2Rlb7DJCPWbsdrvRz/6FMnHiRO3YsSPS24gaBKBh+vfvr/79+4ft9/v222915MiRoOiJVp05m4yMDKWlpamysjIQfF6vV7t37+7wu6wj4VJn43Q6dezYMdXU1CgzM1OStHXrVjU3Nwei7lLU1tZKUpd43LQlISFBmZmZqqys1B133CFJam5uVmVlpR566KE2b+N0OlVZWanCwsLAMZfLFfTMV3dwObO5WFNTk/bv36/bbrutM7ca9ZxOZ6sfFdQdHzNXS21tbZf9mtIpIv0uFESvr7/+2tq3b5+1ZMkSq3fv3ta+ffusffv2WSdOnAisGTZsmPXWW29ZlmVZJ06csH71q19Z1dXV1sGDB60tW7ZY48ePt370ox9ZZ8+ejdRldIqOzsayLOvJJ5+0UlJSrHfffdf65JNPrJkzZ1oZGRnWmTNnInEJnebWW2+1brjhBmv37t3Wjh07rB/96EfWrFmzAue//fZba9iwYdbu3bsty7KsL7/80lq6dKn10UcfWQcPHrTeffdd69prr7VuuummSF3CVfHGG29YNpvNKi0ttQ4cOGA98MADVkpKiuV2uy3Lsqw5c+ZYjz32WGD9hx9+aPXo0cN6+umnrc8++8z69a9/bcXHx1v79++P1CV0mo7OZsmSJVZ5ebn11VdfWTU1NdZdd91lJSYmWnV1dZG6hE5x4sSJwNcSSdYzzzxj7du3z/r6668ty7Ksxx57zJozZ05g/R//+EcrKSnJWrBggfXZZ59ZJSUlVlxcnPX+++9H6hI6TUdns3r1auudd96xvvjiC2v//v3WI488YsXGxlpbtmyJ1CVEHQIQIeXn51uSWv364IMPAmskWevWrbMsy7JOnz5tZWdnW/3797fi4+OtIUOGWPfff3/gi3p30tHZWNb5HwXzxBNPWA6Hw7LZbNYtt9xi1dfXh3/znezIkSPWrFmzrN69e1t2u9265557gsL44MGDQbNqaGiwbrrpJqtPnz6WzWazhg4dai1YsMA6fvx4hK7g6nnhhReswYMHWwkJCdbEiROtXbt2Bc7dfPPNVn5+ftD6DRs2WD/+8Y+thIQE6/rrr7fKysrCvOPw6chsCgsLA2sdDod12223WR9//HEEdt25Wn50ycW/WmaRn59v3Xzzza1uM27cOCshIcG69tprg77mdCcdnc1vf/tb67rrrrMSExOtPn36WFOmTLG2bt0amc1HqRjLsqywPd0IAACAiOPnAAIAABiGAAQAADAMAQgAAGAYAhAAAMAwBCAAAIBhCEAAAADDEIAAAACGIQABAAAMQwACAAAYhgAEAAAwDAEIAABgGAIQAADAMAQgAACAYQhAAAAAwxCAAAAAhiEAAQAADEMAAgAAGIYABAAAMAwBCAAAYBgCEAAAwDAEIAAAgGEIQAAAAMMQgAAAAIYhAAEAAAxDAAIAABiGAAQAADAMAQgAAGAYAhAAAMAwBCAAAIBhCEAAAADDEIAAAACG+X/3DwfMrAnGyAAAAABJRU5ErkJggg==
 &quot; /&gt;
 &lt;/div&gt;
 
@@ -1334,7 +1064,7 @@ Unpacking objects: 100% (4/4), done.
 
 &lt;div class=&quot;output_subarea output_stream output_stdout output_text&quot;&gt;
 &lt;pre&gt;/content/mycar
-using donkey v3.1.1 ...
+using donkey v3.1.2 ...
 TubGroup:tubpaths: [&amp;#39;/content/mycar/data/tubVaihingenIIICleaned200126&amp;#39;]
 joining the tubs 14234 records together. This could take 0 minutes.
 saving image to: tubVaihingenIIICleaned200126_hist_user_angle.png
@@ -1348,216 +1078,7 @@ saving image to: tubVaihingenIIICleaned200126_hist_user_angle.png
 
 
 &lt;div class=&quot;output_png output_subarea output_execute_result&quot;&gt;
-&lt;img src=&quot;data:image/png;base64,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
-6NikSZOsf/zHf+zUfUZCR2fTka9B3YUk6+233253zcKFC63rr78+6NjPf/5zKycnpzO3FnGXMpsP
-PvjAkmT95S9/CdOuuh6eAcRVV1VVpdTUVA0bNkzz5s3TkSNHIr2liDt48KDcbreysrICx5KTkzVp
-0iRVV1dHcGdXV3V1tVJSUjRhwoTAsaysLMXGxmr37t3t3vb1119Xv379NGrUKC1atEinT5/u7O12
-msbGRtXU1AT9946NjVVWVlbI/97V1dVB6yUpJyenWz0+pMubjSSdPHlSQ4YMUXp6umbOnKm6urpw
-bDeqmfKYuRLjxo3TgAEDNH36dH344YeR3k5U4Udl46q69dZbdeeddyojI0NfffWV/vmf/1kzZsxQ
-dXW14uLiIr29iGl53YnD4Qg67nA4utVrUtxud6tvsfTo0UN9+vRp9zp/8YtfaMiQIRo4cKA++eQT
-Pfroo6qvr9dbb73V2VvuFH/+85/V1NTU5n/vzz//vM3buN3ubv/4kC5vNsOGDdOrr76qMWPG6Pjx
-43r66ad14403qq6uToMGDQrHtqNSqMeM1+vVmTNn1LNnzwjtLPIGDBigNWvWaMKECfL5fHrllVc0
-ZcoU7d69W+PHj4/09qICAWiYxx57TL/97W/bXfPZZ59p+PDhl3X/d911V+DfR48erTFjxui6665T
-VVWVbrnllsu6z3Dp7Nl0ZZc6m8t14WsER48erQEDBuiWW27RV199peuuu+6y7xfdg9PplNPpDHx8
-4403asSIEfrd736nZcuWRXBniFbDhg0L+mtdb7zxRn311VdavXq1/uM//iOCO4seBKBh/umf/km/
-/OUv211z7bXXXrXf79prr1W/fv305ZdfRn0AduZs0tLSJEkej0cDBgwIHPd4PBo3btxl3Wc4Xeps
-0tLSWr2Q/9y5czp69GhgBpdi0qRJkqQvv/yySwZgv379FBcXJ4/HE3Tc4/GEnENaWlqH1ndVlzOb
-i8XHx+uGG27Ql19+2Rlb7DJCPWbsdrvRz/6FMnHiRO3YsSPS24gaBKBh+vfvr/79+4ft9/v22291
-5MiRoOiJVp05m4yMDKWlpamysjIQfF6vV7t37+7wu6wj4VJn43Q6dezYMdXU1CgzM1OStHXrVjU3
-Nwei7lLU1tZKUpd43LQlISFBmZmZqqys1B133CFJam5uVmVlpR566KE2b+N0OlVZWanCwsLAMZfL
-FfTMV3dwObO5WFNTk/bv36/bbrutM7ca9ZxOZ6sfFdQdHzNXS21tbZf9mtIpIv0uFESvr7/+2tq3
-b5+1ZMkSq3fv3ta+ffusffv2WSdOnAisGTZsmPXWW29ZlmVZJ06csH71q19Z1dXV1sGDB60tW7ZY
-48ePt370ox9ZZ8+ejdRldIqOzsayLOvJJ5+0UlJSrHfffdf65JNPrJkzZ1oZGRnWmTNnInEJnebW
-W2+1brjhBmv37t3Wjh07rB/96EfWrFmzAue//fZba9iwYdbu3bsty7KsL7/80lq6dKn10UcfWQcP
-HrTeffdd69prr7VuuummSF3CVfHGG29YNpvNKi0ttQ4cOGA98MADVkpKiuV2uy3Lsqw5c+ZYjz32
-WGD9hx9+aPXo0cN6+umnrc8++8z69a9/bcXHx1v79++P1CV0mo7OZsmSJVZ5ebn11VdfWTU1NdZd
-d91lJSYmWnV1dZG6hE5x4sSJwNcSSdYzzzxj7du3z/r6668ty7Ksxx57zJozZ05g/R//+EcrKSnJ
-WrBggfXZZ59ZJSUlVlxcnPX+++9H6hI6TUdns3r1auudd96xvvjiC2v//v3WI488YsXGxlpbtmyJ
-1CVEHQIQIeXn51uSWv364IMPAmskWevWrbMsy7JOnz5tZWdnW/3797fi4+OtIUOGWPfff3/gi3p3
-0tHZWNb5HwXzxBNPWA6Hw7LZbNYtt9xi1dfXh3/znezIkSPWrFmzrN69e1t2u9265557gsL44MGD
-QbNqaGiwbrrpJqtPnz6WzWazhg4dai1YsMA6fvx4hK7g6nnhhReswYMHWwkJCdbEiROtXbt2Bc7d
-fPPNVn5+ftD6DRs2WD/+8Y+thIQE6/rrr7fKysrCvOPw6chsCgsLA2sdDod12223WR9//HEEdt25
-Wn50ycW/WmaRn59v3Xzzza1uM27cOCshIcG69tprg77mdCcdnc1vf/tb67rrrrMSExOtPn36WFOm
-TLG2bt0amc1HqRjLsqywPd0IAACAiOPnAAIAABiGAAQAADAMAQgAAGAYAhAAAMAwBCAAAIBhCEAA
-AADDEIAAAACGIQABAAAMQwACAAAYhgAEAAAwDAEIAABgGAIQAADAMAQgAACAYQhAAAAAwxCAAAAA
-hiEAAQAADEMAAgAAGIYABAAAMAwBCAAAYBgCEAAAwDAEIAAAgGEIQAAAAMMQgAAAAIYhAAEAAAxD
-AAIAABiGAAQAADAMAQgAAGAYAhAAAMAwBCAAAIBhCEAAAADDEIAAAACG+X/3DwfMrAnGyAAAAABJ
-RU5ErkJggg==
+&lt;img src=&quot;data:image/png;base64,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J+2wC7KA77Fu3TorOTn5ktbm5+dbM2fO7OQdRY9LnU1zc7OVlpZmPfXUU4Fjx44ds2w2m/X73/++M7cYVgcOHLAkWXv37g0c+8Mf/mDFxMRY//d//xfydjfffLP1yCOPhGOLYTNx4kSroKAg8HFTU5M1cOBAa8WKFW2u//u//3srNzc36NikSZOsf/zHf+zUfUZCR2fTka9B3YUk6+233253zcKFC63rr78+6NjPf/5zKycnpzO3FnGXMpsPPvjAkmT95S9/CdOuuh6eAcRVV1VVpdTUVA0bNkzz5s3TkSNHIr2liDt48KDcbreysrICx5KTkzVp0iRVV1dHcGdXV3V1tVJSUjRhwoTAsaysLMXGxmr37t3t3vb1119Xv379NGrUKC1atEinT5/u7O12msbGRtXU1AT9946NjVVWVlbI/97V1dVB6yUpJyenWz0+pMubjSSdPHlSQ4YMUXp6umbOnKm6urpwbDeqmfKYuRLjxo3TgAEDNH36dH344YeR3k5U4Udl46q69dZbdeeddyojI0NfffWV/vmf/1kzZsxQdXW14uLiIr29iGl53YnD4Qg67nA4utVrUtxud6tvsfTo0UN9+vRp9zp/8YtfaMiQIRo4cKA++eQTPfroo6qvr9dbb73V2VvuFH/+85/V1NTU5n/vzz//vM3buN3ubv/4kC5vNsOGDdOrr76qMWPG6Pjx43r66ad14403qq6uToMGDQrHtqNSqMeM1+vVmTNn1LNnzwjtLPIGDBigNWvWaMKECfL5fHrllVc0ZcoU7d69W+PHj4/09qICAWiYxx57TL/97W/bXfPZZ59p+PDhl3X/d911V+DfR48erTFjxui6665TVVWVbrnllsu6z3Dp7Nl0ZZc6m8t14WsER48erQEDBuiWW27RV199peuuu+6y7xfdg9PplNPpDHx84403asSIEfrd736nZcuWRXBniFbDhg0L+mtdb7zxRn311VdavXq1/uM//iOCO4seBKBh/umf/km//OUv211z7bXXXrXf79prr1W/fv305ZdfRn0AduZs0tLSJEkej0cDBgwIHPd4PBo3btxl3Wc4Xeps0tLSWr2Q/9y5czp69GhgBpdi0qRJkqQvv/yySwZgv379FBcXJ4/HE3Tc4/GEnENaWlqH1ndVlzObi8XHx+uGG27Ql19+2Rlb7DJCPWbsdrvRz/6FMnHiRO3YsSPS24gaBKBh+vfvr/79+4ft9/v222915MiRoOiJVp05m4yMDKWlpamysjIQfF6vV7t37+7wu6wj4VJn43Q6dezYMdXU1CgzM1OStHXrVjU3Nwei7lLU1tZKUpd43LQlISFBmZmZqqys1B133CFJam5uVmVlpR566KE2b+N0OlVZWanCwsLAMZfLFfTMV3dwObO5WFNTk/bv36/bbrutM7ca9ZxOZ6sfFdQdHzNXS21tbZf9mtIpIv0uFESvr7/+2tq3b5+1ZMkSq3fv3ta+ffusffv2WSdOnAisGTZsmPXWW29ZlmVZJ06csH71q19Z1dXV1sGDB60tW7ZY48ePt370ox9ZZ8+ejdRldIqOzsayLOvJJ5+0UlJSrHfffdf65JNPrJkzZ1oZGRnWmTNnInEJnebWW2+1brjhBmv37t3Wjh07rB/96EfWrFmzAue//fZba9iwYdbu3bsty7KsL7/80lq6dKn10UcfWQcPHrTeffdd69prr7VuuummSF3CVfHGG29YNpvNKi0ttQ4cOGA98MADVkpKiuV2uy3Lsqw5c+ZYjz32WGD9hx9+aPXo0cN6+umnrc8++8z69a9/bcXHx1v79++P1CV0mo7OZsmSJVZ5ebn11VdfWTU1NdZdd91lJSYmWnV1dZG6hE5x4sSJwNcSSdYzzzxj7du3z/r6668ty7Ksxx57zJozZ05g/R//+EcrKSnJWrBggfXZZ59ZJSUlVlxcnPX+++9H6hI6TUdns3r1auudd96xvvjiC2v//v3WI488YsXGxlpbtmyJ1CVEHQIQIeXn51uSWv364IMPAmskWevWrbMsy7JOnz5tZWdnW/3797fi4+OtIUOGWPfff3/gi3p30tHZWNb5HwXzxBNPWA6Hw7LZbNYtt9xi1dfXh3/znezIkSPWrFmzrN69e1t2u9265557gsL44MGDQbNqaGiwbrrpJqtPnz6WzWazhg4dai1YsMA6fvx4hK7g6nnhhReswYMHWwkJCdbEiROtXbt2Bc7dfPPNVn5+ftD6DRs2WD/+8Y+thIQE6/rrr7fKysrCvOPw6chsCgsLA2sdDod12223WR9//HEEdt25Wn50ycW/WmaRn59v3Xzzza1uM27cOCshIcG69tprg77mdCcdnc1vf/tb67rrrrMSExOtPn36WFOmTLG2bt0amc1HqRjLsqywPd0IAACAiOPnAAIAABiGAAQAADAMAQgAAGAYAhAAAMAwBCAAAIBhCEAAAADDEIAAAACGIQABAAAMQwACAAAYhgAEAAAwDAEIAABgGAIQAADAMAQgAACAYQhAAAAAwxCAAAAAhiEAAQAADEMAAgAAGIYABAAAMAwBCAAAYBgCEAAAwDAEIAAAgGEIQAAAAMMQgAAAAIYhAAEAAAxDAAIAABiGAAQAADAMAQgAAGAYAhAAAMAwBCAAAIBhCEAAAADDEIAAAACG+X/3DwfMrAnGyAAAAABJRU5ErkJggg==
 &quot; /&gt;
 &lt;/div&gt;
 
@@ -2332,69 +1853,70 @@ NUM_LAST_LAYERS_TO_TRAIN = 7        #when freezing layers, how many layers from 
 &lt;div class=&quot;output_area&quot;&gt;
 
 &lt;div class=&quot;output_subarea output_stream output_stdout output_text&quot;&gt;
-&lt;pre&gt;using donkey v3.1.1 ...
+&lt;pre&gt;using donkey v3.1.2 ...
 loading config file: /content/mycar/config.py
-loading personal config over-rides
+myconfig myconfig.py
+loading personal config over-rides from myconfig.py
 
 config loaded
 &amp;#34;get_model_by_type&amp;#34; model Type is: linear
-WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+WARNING:tensorflow:From /tensorflow-1.15.2/python3.6/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
 Instructions for updating:
 If using Keras pass *_constraint arguments to layers.
 training with model type &amp;lt;class &amp;#39;donkeycar.parts.keras.KerasLinear&amp;#39;&amp;gt;
 loading weights from model /content/mycar/models/base_linear.h5
-WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/tensorflow_core/python/ops/init_ops.py:97: calling Zeros.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+WARNING:tensorflow:From /tensorflow-1.15.2/python3.6/tensorflow_core/python/ops/init_ops.py:97: calling Zeros.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
 Instructions for updating:
 Call initializer instance with the dtype argument instead of passing it to the constructor
-WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/tensorflow_core/python/ops/init_ops.py:97: calling Ones.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+WARNING:tensorflow:From /tensorflow-1.15.2/python3.6/tensorflow_core/python/ops/init_ops.py:97: calling Ones.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
 Instructions for updating:
 Call initializer instance with the dtype argument instead of passing it to the constructor
-WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/tensorflow_core/python/ops/init_ops.py:97: calling GlorotUniform.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+WARNING:tensorflow:From /tensorflow-1.15.2/python3.6/tensorflow_core/python/ops/init_ops.py:97: calling GlorotUniform.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
 Instructions for updating:
 Call initializer instance with the dtype argument instead of passing it to the constructor
-2020-03-05 13:17:50.083338: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcuda.so.1
-2020-03-05 13:17:50.096380: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:983] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
-2020-03-05 13:17:50.096915: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1618] Found device 0 with properties: 
-name: Tesla P100-PCIE-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.3285
+2020-05-28 07:16:29.495202: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcuda.so.1
+2020-05-28 07:16:29.576754: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:983] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-05-28 07:16:29.577634: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1639] Found device 0 with properties: 
+name: Tesla K80 major: 3 minor: 7 memoryClockRate(GHz): 0.8235
 pciBusID: 0000:00:04.0
-2020-03-05 13:17:50.097178: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
-2020-03-05 13:17:50.098788: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10
-2020-03-05 13:17:50.100537: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcufft.so.10
-2020-03-05 13:17:50.100843: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcurand.so.10
-2020-03-05 13:17:50.102820: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusolver.so.10
-2020-03-05 13:17:50.103741: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusparse.so.10
-2020-03-05 13:17:50.107504: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
-2020-03-05 13:17:50.107616: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:983] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
-2020-03-05 13:17:50.108149: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:983] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
-2020-03-05 13:17:50.108641: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1746] Adding visible gpu devices: 0
-2020-03-05 13:17:50.113691: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2300000000 Hz
-2020-03-05 13:17:50.113869: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x6d69180 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
-2020-03-05 13:17:50.113896: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
-2020-03-05 13:17:50.205942: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:983] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
-2020-03-05 13:17:50.206603: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x6d69340 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
-2020-03-05 13:17:50.206629: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Tesla P100-PCIE-16GB, Compute Capability 6.0
-2020-03-05 13:17:50.206793: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:983] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
-2020-03-05 13:17:50.207296: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1618] Found device 0 with properties: 
-name: Tesla P100-PCIE-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.3285
+2020-05-28 07:16:29.578019: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
+2020-05-28 07:16:29.840391: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10
+2020-05-28 07:16:30.011328: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcufft.so.10
+2020-05-28 07:16:30.043326: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcurand.so.10
+2020-05-28 07:16:30.318628: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusolver.so.10
+2020-05-28 07:16:30.367420: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusparse.so.10
+2020-05-28 07:16:30.913952: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+2020-05-28 07:16:30.914238: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:983] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-05-28 07:16:30.915138: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:983] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-05-28 07:16:30.915855: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1767] Adding visible gpu devices: 0
+2020-05-28 07:16:30.945502: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2300000000 Hz
+2020-05-28 07:16:30.945894: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7884e00 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-05-28 07:16:30.945935: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-05-28 07:16:31.040656: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:983] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-05-28 07:16:31.041613: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7884fc0 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
+2020-05-28 07:16:31.041705: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Tesla K80, Compute Capability 3.7
+2020-05-28 07:16:31.043585: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:983] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-05-28 07:16:31.044438: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1639] Found device 0 with properties: 
+name: Tesla K80 major: 3 minor: 7 memoryClockRate(GHz): 0.8235
 pciBusID: 0000:00:04.0
-2020-03-05 13:17:50.207344: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
-2020-03-05 13:17:50.207358: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10
-2020-03-05 13:17:50.207371: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcufft.so.10
-2020-03-05 13:17:50.207383: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcurand.so.10
-2020-03-05 13:17:50.207396: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusolver.so.10
-2020-03-05 13:17:50.207408: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusparse.so.10
-2020-03-05 13:17:50.207420: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
-2020-03-05 13:17:50.207481: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:983] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
-2020-03-05 13:17:50.207981: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:983] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
-2020-03-05 13:17:50.208496: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1746] Adding visible gpu devices: 0
-2020-03-05 13:17:50.208560: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
-2020-03-05 13:17:50.209562: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1159] Device interconnect StreamExecutor with strength 1 edge matrix:
-2020-03-05 13:17:50.209583: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1165]      0 
-2020-03-05 13:17:50.209592: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1178] 0:   N 
-2020-03-05 13:17:50.209695: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:983] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
-2020-03-05 13:17:50.210220: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:983] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
-2020-03-05 13:17:50.210707: W tensorflow/core/common_runtime/gpu/gpu_bfc_allocator.cc:39] Overriding allow_growth setting because the TF_FORCE_GPU_ALLOW_GROWTH environment variable is set. Original config value was 0.
-2020-03-05 13:17:50.210738: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1304] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15216 MB memory) -&amp;gt; physical GPU (device: 0, name: Tesla P100-PCIE-16GB, pci bus id: 0000:00:04.0, compute capability: 6.0)
+2020-05-28 07:16:31.044542: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
+2020-05-28 07:16:31.044594: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10
+2020-05-28 07:16:31.044634: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcufft.so.10
+2020-05-28 07:16:31.044681: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcurand.so.10
+2020-05-28 07:16:31.044728: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusolver.so.10
+2020-05-28 07:16:31.044771: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusparse.so.10
+2020-05-28 07:16:31.044816: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+2020-05-28 07:16:31.044975: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:983] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-05-28 07:16:31.045878: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:983] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-05-28 07:16:31.046616: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1767] Adding visible gpu devices: 0
+2020-05-28 07:16:31.051148: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
+2020-05-28 07:16:31.052736: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1180] Device interconnect StreamExecutor with strength 1 edge matrix:
+2020-05-28 07:16:31.052777: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1186]      0 
+2020-05-28 07:16:31.052811: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1199] 0:   N 
+2020-05-28 07:16:31.054238: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:983] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-05-28 07:16:31.055102: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:983] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-05-28 07:16:31.055853: W tensorflow/core/common_runtime/gpu/gpu_bfc_allocator.cc:39] Overriding allow_growth setting because the TF_FORCE_GPU_ALLOW_GROWTH environment variable is set. Original config value was 0.
+2020-05-28 07:16:31.055906: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1325] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 10805 MB memory) -&amp;gt; physical GPU (device: 0, name: Tesla K80, pci bus id: 0000:00:04.0, compute capability: 3.7)
 Model: &amp;#34;model&amp;#34;
 __________________________________________________________________________________________________
 Layer (type)                    Output Shape         Param #     Connected to                     
@@ -2444,118 +1966,163 @@ Trainable params: 817,034
 Non-trainable params: 6
 __________________________________________________________________________________________________
 None
-found 0 pickles writing json records and images in tub /content/mycar/data/20-data
-found 0 pickles writing json records and images in tub /content/mycar/data/tub_36_19-04-13
-/content/mycar/data/20-data
-/content/mycar/data/tub_36_19-04-13
-collating 9136 records ...
-train: 7308, val: 1828
-total records: 9136
-steps_per_epoch 114
+found 0 pickles writing json records and images in tub /content/mycar/data/trainingData
+found 0 pickles writing json records and images in tub /content/mycar/data/tubVaihingenIIICleaned200126
+/content/mycar/data/trainingData
+/content/mycar/data/tubVaihingenIIICleaned200126
+collating 14234 records ...
+train: 11387, val: 2847
+total records: 14234
+steps_per_epoch 177
 Epoch 1/100
-2020-03-05 13:17:54.022089: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10
-2020-03-05 13:17:54.305335: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
-113/114 [============================&amp;gt;.] - ETA: 0s - loss: 0.1223 - n_outputs0_loss: 0.1162 - n_outputs1_loss: 0.0061Epoch 1/100
- 27/114 [======&amp;gt;.......................] - ETA: 4s - loss: 0.2913 - n_outputs0_loss: 0.2863 - n_outputs1_loss: 0.0051
-Epoch 00001: val_loss improved from inf to 0.29396, saving model to /content/mycar/models/mypilot.h5
-114/114 [==============================] - 12s 103ms/step - loss: 0.1219 - n_outputs0_loss: 0.1158 - n_outputs1_loss: 0.0061 - val_loss: 0.2940 - val_n_outputs0_loss: 0.2889 - val_n_outputs1_loss: 0.0050
+2020-05-28 07:16:39.892194: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10
+2020-05-28 07:16:41.330000: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+176/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.3669 - n_outputs0_loss: 0.2348 - n_outputs1_loss: 0.1321Epoch 1/100
+ 44/177 [======&amp;gt;.......................] - ETA: 7s - loss: 0.8051 - n_outputs0_loss: 0.7924 - n_outputs1_loss: 0.0127
+Epoch 00001: val_loss improved from inf to 0.80509, saving model to /content/mycar/models/mypilot.h5
+177/177 [==============================] - 21s 121ms/step - loss: 0.3661 - n_outputs0_loss: 0.2347 - n_outputs1_loss: 0.1315 - val_loss: 0.8051 - val_n_outputs0_loss: 0.7924 - val_n_outputs1_loss: 0.0127
 Epoch 2/100
-112/114 [============================&amp;gt;.] - ETA: 0s - loss: 0.0921 - n_outputs0_loss: 0.0889 - n_outputs1_loss: 0.0032Epoch 1/100
- 28/114 [======&amp;gt;.......................] - ETA: 0s - loss: 0.4208 - n_outputs0_loss: 0.4122 - n_outputs1_loss: 0.0086
-Epoch 00002: val_loss did not improve from 0.29396
-114/114 [==============================] - 3s 25ms/step - loss: 0.0918 - n_outputs0_loss: 0.0886 - n_outputs1_loss: 0.0032 - val_loss: 0.4208 - val_n_outputs0_loss: 0.4122 - val_n_outputs1_loss: 0.0086
+176/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.1983 - n_outputs0_loss: 0.1820 - n_outputs1_loss: 0.0163Epoch 1/100
+ 42/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.6753 - n_outputs0_loss: 0.6654 - n_outputs1_loss: 0.0099
+Epoch 00002: val_loss improved from 0.80509 to 0.66708, saving model to /content/mycar/models/mypilot.h5
+177/177 [==============================] - 10s 55ms/step - loss: 0.1978 - n_outputs0_loss: 0.1816 - n_outputs1_loss: 0.0163 - val_loss: 0.6671 - val_n_outputs0_loss: 0.6553 - val_n_outputs1_loss: 0.0118
 Epoch 3/100
-111/114 [============================&amp;gt;.] - ETA: 0s - loss: 0.0847 - n_outputs0_loss: 0.0817 - n_outputs1_loss: 0.0030Epoch 1/100
- 27/114 [======&amp;gt;.......................] - ETA: 0s - loss: 0.3515 - n_outputs0_loss: 0.3426 - n_outputs1_loss: 0.0090
-Epoch 00003: val_loss did not improve from 0.29396
-114/114 [==============================] - 3s 25ms/step - loss: 0.0847 - n_outputs0_loss: 0.0817 - n_outputs1_loss: 0.0030 - val_loss: 0.3521 - val_n_outputs0_loss: 0.3431 - val_n_outputs1_loss: 0.0090
+175/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.1744 - n_outputs0_loss: 0.1615 - n_outputs1_loss: 0.0130Epoch 1/100
+ 43/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.8493 - n_outputs0_loss: 0.8371 - n_outputs1_loss: 0.0122
+Epoch 00003: val_loss did not improve from 0.66708
+177/177 [==============================] - 9s 53ms/step - loss: 0.1741 - n_outputs0_loss: 0.1612 - n_outputs1_loss: 0.0130 - val_loss: 0.8506 - val_n_outputs0_loss: 0.8386 - val_n_outputs1_loss: 0.0119
 Epoch 4/100
-112/114 [============================&amp;gt;.] - ETA: 0s - loss: 0.0767 - n_outputs0_loss: 0.0738 - n_outputs1_loss: 0.0029Epoch 1/100
- 27/114 [======&amp;gt;.......................] - ETA: 0s - loss: 0.3961 - n_outputs0_loss: 0.3920 - n_outputs1_loss: 0.0040
-Epoch 00004: val_loss did not improve from 0.29396
-114/114 [==============================] - 3s 25ms/step - loss: 0.0770 - n_outputs0_loss: 0.0741 - n_outputs1_loss: 0.0029 - val_loss: 0.3917 - val_n_outputs0_loss: 0.3877 - val_n_outputs1_loss: 0.0040
+175/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.1669 - n_outputs0_loss: 0.1544 - n_outputs1_loss: 0.0125Epoch 1/100
+ 42/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.5921 - n_outputs0_loss: 0.5800 - n_outputs1_loss: 0.0121
+Epoch 00004: val_loss improved from 0.66708 to 0.59658, saving model to /content/mycar/models/mypilot.h5
+177/177 [==============================] - 10s 55ms/step - loss: 0.1668 - n_outputs0_loss: 0.1543 - n_outputs1_loss: 0.0124 - val_loss: 0.5966 - val_n_outputs0_loss: 0.5849 - val_n_outputs1_loss: 0.0116
 Epoch 5/100
-112/114 [============================&amp;gt;.] - ETA: 0s - loss: 0.0723 - n_outputs0_loss: 0.0696 - n_outputs1_loss: 0.0028Epoch 1/100
- 27/114 [======&amp;gt;.......................] - ETA: 0s - loss: 0.2747 - n_outputs0_loss: 0.2689 - n_outputs1_loss: 0.0058
-Epoch 00005: val_loss improved from 0.29396 to 0.27492, saving model to /content/mycar/models/mypilot.h5
-114/114 [==============================] - 3s 27ms/step - loss: 0.0723 - n_outputs0_loss: 0.0695 - n_outputs1_loss: 0.0028 - val_loss: 0.2749 - val_n_outputs0_loss: 0.2691 - val_n_outputs1_loss: 0.0058
+176/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.1545 - n_outputs0_loss: 0.1428 - n_outputs1_loss: 0.0116Epoch 1/100
+ 44/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.2561 - n_outputs0_loss: 0.2431 - n_outputs1_loss: 0.0130
+Epoch 00005: val_loss improved from 0.59658 to 0.25609, saving model to /content/mycar/models/mypilot.h5
+177/177 [==============================] - 10s 55ms/step - loss: 0.1543 - n_outputs0_loss: 0.1427 - n_outputs1_loss: 0.0116 - val_loss: 0.2561 - val_n_outputs0_loss: 0.2431 - val_n_outputs1_loss: 0.0130
 Epoch 6/100
-112/114 [============================&amp;gt;.] - ETA: 0s - loss: 0.0667 - n_outputs0_loss: 0.0639 - n_outputs1_loss: 0.0027Epoch 1/100
- 28/114 [======&amp;gt;.......................] - ETA: 0s - loss: 0.4409 - n_outputs0_loss: 0.4382 - n_outputs1_loss: 0.0027
-Epoch 00006: val_loss did not improve from 0.27492
-114/114 [==============================] - 3s 25ms/step - loss: 0.0667 - n_outputs0_loss: 0.0640 - n_outputs1_loss: 0.0027 - val_loss: 0.4409 - val_n_outputs0_loss: 0.4382 - val_n_outputs1_loss: 0.0027
+176/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.1485 - n_outputs0_loss: 0.1371 - n_outputs1_loss: 0.0114Epoch 1/100
+ 44/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1511 - n_outputs0_loss: 0.1446 - n_outputs1_loss: 0.0065
+Epoch 00006: val_loss improved from 0.25609 to 0.15109, saving model to /content/mycar/models/mypilot.h5
+177/177 [==============================] - 10s 55ms/step - loss: 0.1482 - n_outputs0_loss: 0.1368 - n_outputs1_loss: 0.0114 - val_loss: 0.1511 - val_n_outputs0_loss: 0.1446 - val_n_outputs1_loss: 0.0065
 Epoch 7/100
-112/114 [============================&amp;gt;.] - ETA: 0s - loss: 0.0631 - n_outputs0_loss: 0.0605 - n_outputs1_loss: 0.0026Epoch 1/100
- 25/114 [=====&amp;gt;........................] - ETA: 1s - loss: 0.3875 - n_outputs0_loss: 0.3847 - n_outputs1_loss: 0.0028
-Epoch 00007: val_loss did not improve from 0.27492
-114/114 [==============================] - 3s 25ms/step - loss: 0.0630 - n_outputs0_loss: 0.0603 - n_outputs1_loss: 0.0026 - val_loss: 0.3923 - val_n_outputs0_loss: 0.3894 - val_n_outputs1_loss: 0.0029
+176/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.1403 - n_outputs0_loss: 0.1296 - n_outputs1_loss: 0.0107Epoch 1/100
+ 43/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1279 - n_outputs0_loss: 0.1217 - n_outputs1_loss: 0.0062
+Epoch 00007: val_loss improved from 0.15109 to 0.12687, saving model to /content/mycar/models/mypilot.h5
+177/177 [==============================] - 10s 55ms/step - loss: 0.1402 - n_outputs0_loss: 0.1295 - n_outputs1_loss: 0.0107 - val_loss: 0.1269 - val_n_outputs0_loss: 0.1207 - val_n_outputs1_loss: 0.0062
 Epoch 8/100
-112/114 [============================&amp;gt;.] - ETA: 0s - loss: 0.0573 - n_outputs0_loss: 0.0547 - n_outputs1_loss: 0.0026Epoch 1/100
- 28/114 [======&amp;gt;.......................] - ETA: 0s - loss: 0.1920 - n_outputs0_loss: 0.1889 - n_outputs1_loss: 0.0031
-Epoch 00008: val_loss improved from 0.27492 to 0.19197, saving model to /content/mycar/models/mypilot.h5
-114/114 [==============================] - 3s 28ms/step - loss: 0.0573 - n_outputs0_loss: 0.0547 - n_outputs1_loss: 0.0026 - val_loss: 0.1920 - val_n_outputs0_loss: 0.1889 - val_n_outputs1_loss: 0.0031
+175/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.1340 - n_outputs0_loss: 0.1239 - n_outputs1_loss: 0.0101Epoch 1/100
+ 42/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1327 - n_outputs0_loss: 0.1277 - n_outputs1_loss: 0.0050
+Epoch 00008: val_loss did not improve from 0.12687
+177/177 [==============================] - 9s 53ms/step - loss: 0.1342 - n_outputs0_loss: 0.1239 - n_outputs1_loss: 0.0103 - val_loss: 0.1325 - val_n_outputs0_loss: 0.1276 - val_n_outputs1_loss: 0.0050
 Epoch 9/100
-112/114 [============================&amp;gt;.] - ETA: 0s - loss: 0.0556 - n_outputs0_loss: 0.0529 - n_outputs1_loss: 0.0026Epoch 1/100
- 26/114 [=====&amp;gt;........................] - ETA: 1s - loss: 0.0932 - n_outputs0_loss: 0.0905 - n_outputs1_loss: 0.0027
-Epoch 00009: val_loss improved from 0.19197 to 0.09299, saving model to /content/mycar/models/mypilot.h5
-114/114 [==============================] - 3s 28ms/step - loss: 0.0558 - n_outputs0_loss: 0.0531 - n_outputs1_loss: 0.0026 - val_loss: 0.0930 - val_n_outputs0_loss: 0.0903 - val_n_outputs1_loss: 0.0027
+176/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.1288 - n_outputs0_loss: 0.1187 - n_outputs1_loss: 0.0102Epoch 1/100
+ 42/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1314 - n_outputs0_loss: 0.1253 - n_outputs1_loss: 0.0062
+Epoch 00009: val_loss did not improve from 0.12687
+177/177 [==============================] - 9s 53ms/step - loss: 0.1285 - n_outputs0_loss: 0.1184 - n_outputs1_loss: 0.0102 - val_loss: 0.1304 - val_n_outputs0_loss: 0.1245 - val_n_outputs1_loss: 0.0060
 Epoch 10/100
-112/114 [============================&amp;gt;.] - ETA: 0s - loss: 0.0535 - n_outputs0_loss: 0.0510 - n_outputs1_loss: 0.0025Epoch 1/100
- 27/114 [======&amp;gt;.......................] - ETA: 0s - loss: 0.0731 - n_outputs0_loss: 0.0705 - n_outputs1_loss: 0.0026
-Epoch 00010: val_loss improved from 0.09299 to 0.07369, saving model to /content/mycar/models/mypilot.h5
-114/114 [==============================] - 3s 28ms/step - loss: 0.0537 - n_outputs0_loss: 0.0512 - n_outputs1_loss: 0.0025 - val_loss: 0.0737 - val_n_outputs0_loss: 0.0711 - val_n_outputs1_loss: 0.0026
+175/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.1231 - n_outputs0_loss: 0.1134 - n_outputs1_loss: 0.0097Epoch 1/100
+ 42/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1262 - n_outputs0_loss: 0.1216 - n_outputs1_loss: 0.0046
+Epoch 00010: val_loss improved from 0.12687 to 0.12633, saving model to /content/mycar/models/mypilot.h5
+177/177 [==============================] - 10s 55ms/step - loss: 0.1235 - n_outputs0_loss: 0.1137 - n_outputs1_loss: 0.0097 - val_loss: 0.1263 - val_n_outputs0_loss: 0.1219 - val_n_outputs1_loss: 0.0044
 Epoch 11/100
-112/114 [============================&amp;gt;.] - ETA: 0s - loss: 0.0500 - n_outputs0_loss: 0.0475 - n_outputs1_loss: 0.0025Epoch 1/100
- 28/114 [======&amp;gt;.......................] - ETA: 1s - loss: 0.0690 - n_outputs0_loss: 0.0661 - n_outputs1_loss: 0.0029
-Epoch 00011: val_loss improved from 0.07369 to 0.06901, saving model to /content/mycar/models/mypilot.h5
-114/114 [==============================] - 3s 28ms/step - loss: 0.0501 - n_outputs0_loss: 0.0476 - n_outputs1_loss: 0.0025 - val_loss: 0.0690 - val_n_outputs0_loss: 0.0661 - val_n_outputs1_loss: 0.0029
+175/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.1177 - n_outputs0_loss: 0.1085 - n_outputs1_loss: 0.0093Epoch 1/100
+ 43/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1197 - n_outputs0_loss: 0.1150 - n_outputs1_loss: 0.0047
+Epoch 00011: val_loss improved from 0.12633 to 0.11996, saving model to /content/mycar/models/mypilot.h5
+177/177 [==============================] - 10s 55ms/step - loss: 0.1175 - n_outputs0_loss: 0.1083 - n_outputs1_loss: 0.0092 - val_loss: 0.1200 - val_n_outputs0_loss: 0.1147 - val_n_outputs1_loss: 0.0053
 Epoch 12/100
-112/114 [============================&amp;gt;.] - ETA: 0s - loss: 0.0488 - n_outputs0_loss: 0.0463 - n_outputs1_loss: 0.0025Epoch 1/100
- 26/114 [=====&amp;gt;........................] - ETA: 0s - loss: 0.0659 - n_outputs0_loss: 0.0633 - n_outputs1_loss: 0.0026
-Epoch 00012: val_loss improved from 0.06901 to 0.06655, saving model to /content/mycar/models/mypilot.h5
-114/114 [==============================] - 3s 27ms/step - loss: 0.0489 - n_outputs0_loss: 0.0464 - n_outputs1_loss: 0.0025 - val_loss: 0.0665 - val_n_outputs0_loss: 0.0638 - val_n_outputs1_loss: 0.0027
+175/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.1118 - n_outputs0_loss: 0.1026 - n_outputs1_loss: 0.0092Epoch 1/100
+ 43/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1177 - n_outputs0_loss: 0.1145 - n_outputs1_loss: 0.0032
+Epoch 00012: val_loss improved from 0.11996 to 0.11768, saving model to /content/mycar/models/mypilot.h5
+177/177 [==============================] - 10s 55ms/step - loss: 0.1118 - n_outputs0_loss: 0.1027 - n_outputs1_loss: 0.0092 - val_loss: 0.1177 - val_n_outputs0_loss: 0.1145 - val_n_outputs1_loss: 0.0031
 Epoch 13/100
-112/114 [============================&amp;gt;.] - ETA: 0s - loss: 0.0444 - n_outputs0_loss: 0.0419 - n_outputs1_loss: 0.0025Epoch 1/100
- 24/114 [=====&amp;gt;........................] - ETA: 0s - loss: 0.0681 - n_outputs0_loss: 0.0655 - n_outputs1_loss: 0.0026
-Epoch 00013: val_loss did not improve from 0.06655
-114/114 [==============================] - 3s 25ms/step - loss: 0.0446 - n_outputs0_loss: 0.0421 - n_outputs1_loss: 0.0025 - val_loss: 0.0678 - val_n_outputs0_loss: 0.0652 - val_n_outputs1_loss: 0.0026
+175/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.1069 - n_outputs0_loss: 0.0980 - n_outputs1_loss: 0.0090Epoch 1/100
+ 43/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1215 - n_outputs0_loss: 0.1150 - n_outputs1_loss: 0.0065
+Epoch 00013: val_loss did not improve from 0.11768
+177/177 [==============================] - 9s 53ms/step - loss: 0.1071 - n_outputs0_loss: 0.0981 - n_outputs1_loss: 0.0089 - val_loss: 0.1203 - val_n_outputs0_loss: 0.1139 - val_n_outputs1_loss: 0.0064
 Epoch 14/100
-112/114 [============================&amp;gt;.] - ETA: 0s - loss: 0.0440 - n_outputs0_loss: 0.0415 - n_outputs1_loss: 0.0025Epoch 1/100
- 24/114 [=====&amp;gt;........................] - ETA: 1s - loss: 0.0644 - n_outputs0_loss: 0.0617 - n_outputs1_loss: 0.0027
-Epoch 00014: val_loss improved from 0.06655 to 0.06519, saving model to /content/mycar/models/mypilot.h5
-114/114 [==============================] - 3s 28ms/step - loss: 0.0439 - n_outputs0_loss: 0.0414 - n_outputs1_loss: 0.0025 - val_loss: 0.0652 - val_n_outputs0_loss: 0.0625 - val_n_outputs1_loss: 0.0027
+175/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.1053 - n_outputs0_loss: 0.0964 - n_outputs1_loss: 0.0089Epoch 1/100
+ 43/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1168 - n_outputs0_loss: 0.1118 - n_outputs1_loss: 0.0050
+Epoch 00014: val_loss improved from 0.11768 to 0.11609, saving model to /content/mycar/models/mypilot.h5
+177/177 [==============================] - 10s 55ms/step - loss: 0.1052 - n_outputs0_loss: 0.0963 - n_outputs1_loss: 0.0088 - val_loss: 0.1161 - val_n_outputs0_loss: 0.1112 - val_n_outputs1_loss: 0.0049
 Epoch 15/100
-112/114 [============================&amp;gt;.] - ETA: 0s - loss: 0.0408 - n_outputs0_loss: 0.0384 - n_outputs1_loss: 0.0025Epoch 1/100
- 23/114 [=====&amp;gt;........................] - ETA: 0s - loss: 0.0674 - n_outputs0_loss: 0.0648 - n_outputs1_loss: 0.0026
-Epoch 00015: val_loss did not improve from 0.06519
-114/114 [==============================] - 3s 25ms/step - loss: 0.0407 - n_outputs0_loss: 0.0382 - n_outputs1_loss: 0.0025 - val_loss: 0.0677 - val_n_outputs0_loss: 0.0651 - val_n_outputs1_loss: 0.0026
+176/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.1012 - n_outputs0_loss: 0.0927 - n_outputs1_loss: 0.0085Epoch 1/100
+ 42/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1165 - n_outputs0_loss: 0.1124 - n_outputs1_loss: 0.0041
+Epoch 00015: val_loss did not improve from 0.11609
+177/177 [==============================] - 9s 53ms/step - loss: 0.1012 - n_outputs0_loss: 0.0927 - n_outputs1_loss: 0.0085 - val_loss: 0.1171 - val_n_outputs0_loss: 0.1131 - val_n_outputs1_loss: 0.0039
 Epoch 16/100
-112/114 [============================&amp;gt;.] - ETA: 0s - loss: 0.0396 - n_outputs0_loss: 0.0372 - n_outputs1_loss: 0.0024Epoch 1/100
- 28/114 [======&amp;gt;.......................] - ETA: 0s - loss: 0.0674 - n_outputs0_loss: 0.0650 - n_outputs1_loss: 0.0025
-Epoch 00016: val_loss did not improve from 0.06519
-114/114 [==============================] - 3s 25ms/step - loss: 0.0396 - n_outputs0_loss: 0.0371 - n_outputs1_loss: 0.0024 - val_loss: 0.0674 - val_n_outputs0_loss: 0.0650 - val_n_outputs1_loss: 0.0025
+176/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.0973 - n_outputs0_loss: 0.0890 - n_outputs1_loss: 0.0083Epoch 1/100
+ 42/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1109 - n_outputs0_loss: 0.1047 - n_outputs1_loss: 0.0063
+Epoch 00016: val_loss improved from 0.11609 to 0.11028, saving model to /content/mycar/models/mypilot.h5
+177/177 [==============================] - 10s 55ms/step - loss: 0.0972 - n_outputs0_loss: 0.0889 - n_outputs1_loss: 0.0083 - val_loss: 0.1103 - val_n_outputs0_loss: 0.1042 - val_n_outputs1_loss: 0.0061
 Epoch 17/100
-112/114 [============================&amp;gt;.] - ETA: 0s - loss: 0.0375 - n_outputs0_loss: 0.0350 - n_outputs1_loss: 0.0024Epoch 1/100
- 28/114 [======&amp;gt;.......................] - ETA: 0s - loss: 0.0666 - n_outputs0_loss: 0.0641 - n_outputs1_loss: 0.0025
-Epoch 00017: val_loss did not improve from 0.06519
-114/114 [==============================] - 3s 25ms/step - loss: 0.0376 - n_outputs0_loss: 0.0352 - n_outputs1_loss: 0.0024 - val_loss: 0.0666 - val_n_outputs0_loss: 0.0641 - val_n_outputs1_loss: 0.0025
+175/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.0930 - n_outputs0_loss: 0.0849 - n_outputs1_loss: 0.0081Epoch 1/100
+ 44/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1112 - n_outputs0_loss: 0.1064 - n_outputs1_loss: 0.0048
+Epoch 00017: val_loss did not improve from 0.11028
+177/177 [==============================] - 9s 53ms/step - loss: 0.0928 - n_outputs0_loss: 0.0848 - n_outputs1_loss: 0.0080 - val_loss: 0.1112 - val_n_outputs0_loss: 0.1064 - val_n_outputs1_loss: 0.0048
 Epoch 18/100
-112/114 [============================&amp;gt;.] - ETA: 0s - loss: 0.0376 - n_outputs0_loss: 0.0351 - n_outputs1_loss: 0.0024Epoch 1/100
- 28/114 [======&amp;gt;.......................] - ETA: 0s - loss: 0.0665 - n_outputs0_loss: 0.0641 - n_outputs1_loss: 0.0024
-Epoch 00018: val_loss did not improve from 0.06519
-114/114 [==============================] - 3s 25ms/step - loss: 0.0378 - n_outputs0_loss: 0.0353 - n_outputs1_loss: 0.0024 - val_loss: 0.0665 - val_n_outputs0_loss: 0.0641 - val_n_outputs1_loss: 0.0024
+176/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.0911 - n_outputs0_loss: 0.0829 - n_outputs1_loss: 0.0081Epoch 1/100
+ 42/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1135 - n_outputs0_loss: 0.1081 - n_outputs1_loss: 0.0054
+Epoch 00018: val_loss did not improve from 0.11028
+177/177 [==============================] - 9s 53ms/step - loss: 0.0909 - n_outputs0_loss: 0.0828 - n_outputs1_loss: 0.0081 - val_loss: 0.1140 - val_n_outputs0_loss: 0.1088 - val_n_outputs1_loss: 0.0052
 Epoch 19/100
-111/114 [============================&amp;gt;.] - ETA: 0s - loss: 0.0375 - n_outputs0_loss: 0.0351 - n_outputs1_loss: 0.0024Epoch 1/100
- 26/114 [=====&amp;gt;........................] - ETA: 0s - loss: 0.0637 - n_outputs0_loss: 0.0612 - n_outputs1_loss: 0.0025
-Epoch 00019: val_loss improved from 0.06519 to 0.06484, saving model to /content/mycar/models/mypilot.h5
-114/114 [==============================] - 3s 28ms/step - loss: 0.0374 - n_outputs0_loss: 0.0349 - n_outputs1_loss: 0.0024 - val_loss: 0.0648 - val_n_outputs0_loss: 0.0623 - val_n_outputs1_loss: 0.0025
-Epoch 00019: early stopping
-Training completed in 0:01:06.
-
-
------------ Best Eval Loss :0.064842 ---------
-&amp;lt;Figure size 640x480 with 1 Axes&amp;gt;
-&lt;/pre&gt;
+176/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.0881 - n_outputs0_loss: 0.0805 - n_outputs1_loss: 0.0077Epoch 1/100
+ 42/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1075 - n_outputs0_loss: 0.1030 - n_outputs1_loss: 0.0046
+Epoch 00019: val_loss improved from 0.11028 to 0.10809, saving model to /content/mycar/models/mypilot.h5
+177/177 [==============================] - 10s 55ms/step - loss: 0.0881 - n_outputs0_loss: 0.0804 - n_outputs1_loss: 0.0077 - val_loss: 0.1081 - val_n_outputs0_loss: 0.1036 - val_n_outputs1_loss: 0.0044
+Epoch 20/100
+176/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.0844 - n_outputs0_loss: 0.0764 - n_outputs1_loss: 0.0080Epoch 1/100
+ 44/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1097 - n_outputs0_loss: 0.1039 - n_outputs1_loss: 0.0058
+Epoch 00020: val_loss did not improve from 0.10809
+177/177 [==============================] - 10s 54ms/step - loss: 0.0843 - n_outputs0_loss: 0.0763 - n_outputs1_loss: 0.0080 - val_loss: 0.1097 - val_n_outputs0_loss: 0.1039 - val_n_outputs1_loss: 0.0058
+Epoch 21/100
+176/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.0819 - n_outputs0_loss: 0.0747 - n_outputs1_loss: 0.0072Epoch 1/100
+ 44/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1132 - n_outputs0_loss: 0.1086 - n_outputs1_loss: 0.0046
+Epoch 00021: val_loss did not improve from 0.10809
+177/177 [==============================] - 10s 54ms/step - loss: 0.0819 - n_outputs0_loss: 0.0746 - n_outputs1_loss: 0.0072 - val_loss: 0.1132 - val_n_outputs0_loss: 0.1086 - val_n_outputs1_loss: 0.0046
+Epoch 22/100
+175/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.0786 - n_outputs0_loss: 0.0717 - n_outputs1_loss: 0.0069Epoch 1/100
+ 42/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1081 - n_outputs0_loss: 0.1039 - n_outputs1_loss: 0.0042
+Epoch 00022: val_loss did not improve from 0.10809
+177/177 [==============================] - 9s 54ms/step - loss: 0.0786 - n_outputs0_loss: 0.0717 - n_outputs1_loss: 0.0068 - val_loss: 0.1091 - val_n_outputs0_loss: 0.1040 - val_n_outputs1_loss: 0.0050
+Epoch 23/100
+176/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.0767 - n_outputs0_loss: 0.0701 - n_outputs1_loss: 0.0066Epoch 1/100
+ 44/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1065 - n_outputs0_loss: 0.1029 - n_outputs1_loss: 0.0036
+Epoch 00023: val_loss improved from 0.10809 to 0.10649, saving model to /content/mycar/models/mypilot.h5
+177/177 [==============================] - 10s 55ms/step - loss: 0.0768 - n_outputs0_loss: 0.0701 - n_outputs1_loss: 0.0068 - val_loss: 0.1065 - val_n_outputs0_loss: 0.1029 - val_n_outputs1_loss: 0.0036
+Epoch 24/100
+175/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.0793 - n_outputs0_loss: 0.0723 - n_outputs1_loss: 0.0070Epoch 1/100
+ 42/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1049 - n_outputs0_loss: 0.0997 - n_outputs1_loss: 0.0053
+Epoch 00024: val_loss improved from 0.10649 to 0.10536, saving model to /content/mycar/models/mypilot.h5
+177/177 [==============================] - 10s 55ms/step - loss: 0.0793 - n_outputs0_loss: 0.0723 - n_outputs1_loss: 0.0069 - val_loss: 0.1054 - val_n_outputs0_loss: 0.1003 - val_n_outputs1_loss: 0.0050
+Epoch 25/100
+175/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.0753 - n_outputs0_loss: 0.0692 - n_outputs1_loss: 0.0061Epoch 1/100
+ 44/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1031 - n_outputs0_loss: 0.0982 - n_outputs1_loss: 0.0048
+Epoch 00025: val_loss improved from 0.10536 to 0.10307, saving model to /content/mycar/models/mypilot.h5
+177/177 [==============================] - 10s 55ms/step - loss: 0.0752 - n_outputs0_loss: 0.0691 - n_outputs1_loss: 0.0061 - val_loss: 0.1031 - val_n_outputs0_loss: 0.0982 - val_n_outputs1_loss: 0.0048
+Epoch 26/100
+175/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.0712 - n_outputs0_loss: 0.0651 - n_outputs1_loss: 0.0061Epoch 1/100
+ 42/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1133 - n_outputs0_loss: 0.1080 - n_outputs1_loss: 0.0053
+Epoch 00026: val_loss did not improve from 0.10307
+177/177 [==============================] - 9s 53ms/step - loss: 0.0712 - n_outputs0_loss: 0.0651 - n_outputs1_loss: 0.0061 - val_loss: 0.1139 - val_n_outputs0_loss: 0.1087 - val_n_outputs1_loss: 0.0051
+Epoch 27/100
+176/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.0707 - n_outputs0_loss: 0.0647 - n_outputs1_loss: 0.0060Epoch 1/100
+ 42/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1070 - n_outputs0_loss: 0.1032 - n_outputs1_loss: 0.0037
+Epoch 00027: val_loss did not improve from 0.10307
+177/177 [==============================] - 9s 53ms/step - loss: 0.0707 - n_outputs0_loss: 0.0647 - n_outputs1_loss: 0.0060 - val_loss: 0.1060 - val_n_outputs0_loss: 0.1025 - val_n_outputs1_loss: 0.0036
+Epoch 28/100
+175/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.0682 - n_outputs0_loss: 0.0624 - n_outputs1_loss: 0.0058Epoch 1/100
+ 42/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1177 - n_outputs0_loss: 0.1094 - n_outputs1_loss: 0.0084
+Epoch 00028: val_loss did not improve from 0.10307
+177/177 [==============================] - 9s 53ms/step - loss: 0.0683 - n_outputs0_loss: 0.0625 - n_outputs1_loss: 0.0058 - val_loss: 0.1157 - val_n_outputs0_loss: 0.1077 - val_n_outputs1_loss: 0.0080
+Epoch 29/100
+175/177 [============================&amp;gt;.] - ETA: 0s - loss: 0.0664 - n_outputs0_loss: 0.0610 - n_outputs1_loss: 0.0053Epoch 1/100
+ 44/177 [======&amp;gt;.......................] - ETA: 2s - loss: 0.1127 - n_outputs0_loss: 0.1087 - n_outputs1_loss: 0.0039
+Epoch 00029: val_loss did not improve from 0.10307
+177/177 [==============================] - 9s 53ms/step - loss: 0.0663 - n_outputs0_loss: 0.0609 - n_outputs1_loss: 0.0054 - val_loss: 0.1127 - val_n_outputs0_loss: 0.1087 - val_n_outputs1_loss: 0.0039
+Epoch 30/100
+ 68/177 [==========&amp;gt;...................] - ETA: 5s - loss: 0.0670 - n_outputs0_loss: 0.0604 - n_outputs1_loss: 0.0066&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
